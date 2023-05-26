@@ -27,8 +27,48 @@ Para lograr lo anterior se realizará los siguientes pasos:
 ## 2. Análisis exploratorio usando Python + Jupyter Notebook
 - Para iniciar el análisis exploratorio de las variables, se utilizó Python a través de Jupyter Notebook
 - La base transformada "reto_precios_v1" cuenta con 19 columnas y 981 observaciones.
+- 
 
-![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/f087da65-6e47-465e-95ae-dd6989d56e7a)
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/5dc29818-2a38-44a3-8560-7ce44dc1381b)
+
+* Descriptivos:
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/094e4595-41f1-4dfd-b0f7-f15cb96d0815)
+
+
+* Box Plot Número de baños, posibles outliers
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/c65bd2ea-36e8-4a43-b040-7dc4725797a4)
+
+* Box plot para cuota mensual de mantenimiento, posibles outliers
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/84bbd8a7-865c-4b06-9ff1-31bbc7b2dde5)
+
+* Box plot para precio final, posibles outliers
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/fbd76ca0-90aa-4c8b-8159-f57b803c497d)
+
+* Diagramas de dispersión
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/791036b4-4faf-4ba3-8f4d-e44615491536)
+
+* Histogramas
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/cf8b565f-c0ae-4c83-9ba5-e367a07f8452)
+
+*Buscando posibles relaciones
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
