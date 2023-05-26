@@ -1,4 +1,4 @@
-# Precios_por_m2
+# Precios por metro cuadrado en el sector inmobiliario
 Implementación de un modelo de aprendizaje automático para predecir el precio por m2 derivado de una serie de inmuebles con características geoespaciales y amenidades especificas.
 
 Para lograr lo anterior se realizará los siguientes pasos:
