@@ -48,6 +48,8 @@ Para lograr lo anterior se realizará los siguientes pasos:
 
 ![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/fbd76ca0-90aa-4c8b-8159-f57b803c497d)
 
+## Derivado de lo anterior, se busca eliminar los outliers basado en la desviación estándar:
+
 * Diagramas de dispersión
 
 ![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/791036b4-4faf-4ba3-8f4d-e44615491536)
