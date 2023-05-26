@@ -58,6 +58,10 @@ Para lograr lo anterior se realizará los siguientes pasos:
 
 *Buscando posibles relaciones
 
+* Matriz de correlación
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/261f77e8-fe4b-4727-b525-78e9c3662185)
+
 
 
 
