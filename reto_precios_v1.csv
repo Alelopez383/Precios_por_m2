@@ -1,0 +1,982 @@
+street,suburb,state,vendor,lat,lon,days_on_site,amenities,bathrooms,cellars,num_floors,monthly_fee_mxn,parking_lots,beds,department_type,m2,final_price,price_square_meter
+Sinaloa 20 ," Roma Sur, Roma Sur, Cuauhtémoc", Distrito Federal,Investemx,19.4213173,-99.1641821,5,3,2,0,1,0.00,2,2,apt,127.00,9000000.00,70866.14
+Tonala," Roma Norte, Cuauhtémoc", Distrito Federal,Avitana,19.4210293,-99.1635414,7,2,1,0,0,0.00,1,1,apt,54.00,4264000.00,78962.96
+Tepeji 43," Roma Sur, Ciudad De México, Cdmx, México, Roma Sur, Cuauhtémoc", Distrito Federal,Ebranuncios,19.4078138,-99.1618723,4,0,3,2,3,0.00,2,3,apt,163.00,8093500.00,49653.37
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.404992,-99.1602428,150,2,2,0,0,853.00,1,2,Loft,93.00,4000000.00,43010.75
+Frontera," Roma Norte, Cuauhtémoc", Distrito Federal,Contactobienesraicesgold,19.4196927,-99.1560364,52,4,2,0,0,0.00,1,2,apt,103.00,6732700.00,65366.02
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Lidialopeza ,19.4030201,-99.1687004,120,3,1,0,0,0.00,1,2,apt,67.00,3200000.00,47761.19
+Sinaloa 20 ," Roma Norte, Cuauhtémoc", Distrito Federal,Investemx,19.4213173,-99.1641821,18,3,2,0,1,0.00,2,2,apt,127.00,9000000.00,70866.14
+Roma Sur, Cuauhtémoc, Distrito Federal,Neximo,19.4111979,-99.1649286,31,0,2,0,0,0.00,1,2,apt,112.00,5550000.00,49553.57
+Colima," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4210727,-99.1557975,150,3,2,0,0,0.00,2,3,Loft,154.00,10592361.00,68781.56
+Cuauhtemoc," Roma Norte, Cuauhtémoc", Distrito Federal,Balinter,19.4193053,-99.1538106,55,4,2,0,0,0.00,2,2,apt,100.00,5300000.00,53000.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,5,2,0,0,0.00,2,3,apt,163.00,10200000.00,62576.69
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,5,2,0,0,0.00,2,3,apt,180.00,11050000.00,61388.89
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,5,2,0,0,0.00,2,3,apt,157.00,9880000.00,62929.94
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,5,2,0,0,0.00,2,3,apt,111.00,7010000.00,63153.15
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,5,2,0,0,0.00,2,3,apt,112.00,6790000.00,60625.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,5,2,0,0,0.00,2,3,apt,149.00,9670000.00,64899.33
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,5,2,0,0,0.00,2,3,apt,114.00,7332973.00,64324.32
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Habitare Luxury Living,19.4090847,-99.1643185,3,4,2,0,0,0.00,1,2,apt,145.00,9859115.00,67993.90
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,2,1,0,0,0.00,1,1,apt,41.00,3382500.00,82500.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,2,1,0,0,0.00,1,1,apt,54.00,4515000.00,83611.11
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4195256,-99.162549,4,2,1,0,0,0.00,1,1,apt,56.00,4496000.00,80285.71
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,2,1,0,0,0.00,1,1,apt,63.00,5257500.00,83452.38
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,2,1,0,0,0.00,1,1,apt,49.00,4102500.00,83724.49
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4043698,-99.1636062,4,2,1,0,0,0.00,1,1,apt,38.00,3195000.00,84078.95
+Viaducto Miguel Alemán," Roma Sur, Cuauhtémoc", Distrito Federal,Jrasesores,19.4020904,-99.1626636,6,4,2,0,0,0.00,1,2,apt,84.00,4061500.00,48351.19
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4127205,-99.1547904,7,0,1,0,0,0.00,1,1,apt,48.00,3306533.00,68886.10
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Inmobiliariahaz,19.4136591,-99.1653045,3,4,2,0,0,0.00,1,2,apt,89.00,5399999.00,60674.15
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Habitare Luxury Living,19.4090847,-99.1643185,3,3,1,0,0,0.00,1,2,apt,67.00,4314445.00,64394.70
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Habitare Luxury Living,19.4090847,-99.1643185,3,4,2,0,0,0.00,1,2,apt,74.00,4996100.00,67514.86
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4052747,-99.1690454,7,0,2,0,0,0.00,1,2,apt,91.00,4850000.00,53296.70
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,1,0,0,0.00,1,1,apt,45.00,3615970.00,80354.89
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4184344,-99.1558187,7,0,1,0,0,800.00,1,1,apt,60.00,3395000.00,56583.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,3,apt,86.00,4495000.00,52267.44
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,81.00,5292000.00,65333.33
+Av Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,8,0,1,1,1,0.00,1,1,apt,37.00,2792170.00,75464.05
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,1,0,0,0.00,1,1,apt,48.00,3034124.00,63210.92
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,3,0,0,0.00,1,2,apt,176.00,9500000.00,53977.27
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,3,0,0,0.00,2,2,apt,126.00,8700000.00,69047.62
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,3,apt,86.00,4495000.00,52267.44
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4158401,-99.1596792,7,0,3,0,0,0.00,2,3,apt,284.00,12900000.00,45422.54
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,2,2,apt,85.00,3995000.00,47000.00
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Jrasesores,19.4195256,-99.162549,6,6,3,0,0,0.00,1,3,apt,152.00,8500000.00,55921.05
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,3,0,0,0.00,1,3,apt,193.00,6195000.00,32098.45
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4119026,-99.1596531,2,4,2,0,0,0.00,2,2,apt,97.00,6042960.00,62298.56
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,1,2,apt,111.00,5550000.00,50000.00
+SN,Cuauhtemoc, Distrito Federal,Rent A House Cdmx,19.4301322,-99.1691413,7,0,2,0,0,0.00,1,2,apt,104.00,5350000.00,51442.31
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,3,apt,86.00,4495000.00,52267.44
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,3,apt,86.00,4495000.00,52267.44
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,3,apt,86.00,4495000.00,52267.44
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,3,0,0,0.00,2,3,apt,284.00,12900000.00,45422.54
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,60.00,3595000.00,59916.67
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4196927,-99.1560364,7,0,1,0,0,0.00,1,1,apt,60.00,3395000.00,56583.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,57.00,3780000.00,66315.79
+Alejandría 111," Roma, Monterrey",Nuevo Leon,Century21 Urbana,25.656675,-100.2944792,4,0,1,0,0,0.00,1,1,apt,40.00,2325668.00,58141.70
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,1,2,apt,111.00,5550000.00,50000.00
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Inmobiliariahaz,19.4057258,-99.1637564,3,4,2,0,0,0.00,2,2,apt,78.00,4500000.00,57692.31
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,81.00,5393000.00,66580.25
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,42.00,2595000.00,61785.71
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,1,0,0,0.00,1,1,apt,48.00,2862381.00,59632.94
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,2,3,apt,90.00,4495000.00,49944.44
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,3,0,0,0.00,2,2,apt,107.00,7040000.00,65794.39
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,71.00,4455000.00,62746.48
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,3,0,0,0.00,2,2,apt,107.00,7040000.00,65794.39
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4137406,-99.1610013,7,0,2,0,0,0.00,2,2,apt,163.00,9935982.00,60956.94
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,7,0,1,0,0,0.00,1,1,apt,44.00,3615979.00,82181.34
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,7,0,1,0,0,0.00,1,1,apt,44.00,3615970.00,82181.14
+Roma Sur, Cuauhtémoc, Distrito Federal,Jrasesores,19.405299,-99.1649891,6,4,2,0,0,0.00,1,2,apt,78.00,4186666.00,53675.21
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4161012,-99.1653105,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4160872,-99.1653105,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,1,apt,67.00,4250000.00,63432.84
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,60.00,3595000.00,59916.67
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,60.00,3395000.00,56583.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,110.00,7962400.00,72385.45
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4158401,-99.1596792,7,0,2,0,0,0.00,2,3,apt,90.00,4495000.00,49944.44
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,57.00,3950000.00,69298.25
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4229547,-99.1652534,7,0,2,0,0,0.00,1,2,apt,61.00,4430000.00,72622.95
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4229547,-99.1652534,7,0,2,0,0,0.00,1,2,apt,86.00,4913500.00,57133.72
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,3,0,0,0.00,1,2,apt,122.00,8400000.00,68852.46
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,3,0,0,0.00,1,2,apt,122.00,8400000.00,68852.46
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,61.00,4430000.00,72622.95
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,71.00,4455000.00,62746.48
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4195256,-99.162549,4,2,1,0,0,0.00,1,1,apt,39.00,3217500.00,82500.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4195256,-99.162549,4,2,1,0,0,0.00,1,1,apt,38.00,3155000.00,83026.32
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,2,3,apt,111.00,6426000.00,57891.89
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,91.00,5145000.00,56538.46
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,57.00,3750000.00,65789.47
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,1,apt,67.00,4278000.00,63850.75
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,71.00,4390000.00,61830.99
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,1,apt,74.00,4780000.00,64594.59
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,3,0,0,0.00,2,2,apt,120.00,7550000.00,62916.67
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,37.00,3848548.00,104014.81
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4181605,-99.1584569,7,0,2,0,0,0.00,1,2,apt,78.00,4826900.00,61883.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4181605,-99.1584569,7,0,2,0,0,0.00,1,2,apt,78.00,4826900.00,61883.33
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,1,2,apt,74.00,4229827.00,57159.82
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,2,apt,78.00,4483800.00,57484.62
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,7,0,1,0,0,0.00,1,1,apt,45.00,3615970.00,80354.89
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,1,apt,67.00,4250000.00,63432.84
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,1,apt,69.00,4335000.00,62826.09
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,57.00,3725000.00,65350.88
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,2,0,0,0.00,1,2,apt,65.00,4330000.00,66615.38
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,1,2,apt,91.00,5145000.00,56538.46
+Narvarte, Benito Juárez, Distrito Federal,Rent A House Cdmx,19.3941411,-99.1425459,7,0,2,0,0,0.00,2,3,apt,122.00,5795000.00,47500.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,3,0,0,0.00,2,2,apt,173.00,9151840.00,52900.81
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,43.00,3370000.00,78372.09
+Roma Norte," Ciudad De México, Cdmx, México, Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,3,0,2,0,4,0.00,1,1,apt,63.00,4454120.00,70700.32
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4158401,-99.1596792,7,0,3,0,0,0.00,1,3,apt,284.00,14700000.00,51760.56
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,5,0,2,0,0,1.00,1,2,apt,145.00,6084392.00,41961.32
+SN,Cuauhtemoc, Distrito Federal,Rematadascom,19.4021495,-99.170374,3,0,2,0,0,0.00,1,3,apt,111.00,2942543.00,26509.40
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,4,2,0,0,0.00,1,2,apt,132.00,6853000.00,51916.67
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,5,0,2,0,0,1.00,1,2,apt,145.00,6084392.00,41961.32
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,1,2,apt,78.00,4100000.00,52564.10
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4158401,-99.1596792,7,0,3,0,0,0.00,2,3,apt,284.00,14700000.00,51760.56
+SN,Cuauhtemoc, Distrito Federal,Rematadascom,19.407944,-99.1675301,3,0,2,0,0,0.00,1,3,apt,96.00,2327000.00,24239.58
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,3,1,0,0,0.00,1,2,apt,59.00,4290000.00,72711.86
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,4,2,0,0,0.00,1,2,apt,64.00,4312000.00,67375.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,2,1,0,0,0.00,1,1,apt,41.00,3269750.00,79750.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,2,1,0,0,0.00,1,1,apt,43.00,3429250.00,79750.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,4,2,0,0,0.00,1,2,apt,126.00,6600000.00,52380.95
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,4,2,0,0,0.00,1,2,apt,63.00,4202000.00,66698.41
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,3,1,0,0,0.00,1,2,apt,76.00,4631000.00,60934.21
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,2,1,0,0,0.00,1,1,apt,51.00,3840000.00,75294.12
+Roma Norte, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4124955,-99.1577268,4,4,2,0,0,0.00,1,2,apt,62.00,4279000.00,69016.13
+Roma Norte, Cuauhtémoc, Distrito Federal,Jrasesores,19.4195256,-99.162549,6,7,3,0,0,0.00,2,3,apt,157.00,9401000.00,59878.98
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,1,2,apt,78.00,4100000.00,52564.10
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,57.00,3640000.00,63859.65
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,43.00,3370000.00,78372.09
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,2,2,apt,74.00,4229827.00,57159.82
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4126449,-99.1612825,7,0,2,0,0,0.00,2,2,apt,82.00,5006474.00,61054.56
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,7,0,1,0,0,0.00,1,1,apt,43.00,3370000.00,78372.09
+Roma Sur, Cuauhtémoc, Distrito Federal,Promoluxury,19.405299,-99.1649891,7,4,2,0,0,0.00,1,2,apt,141.00,9859115.00,69922.80
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4076742,-99.1600444,7,0,2,0,0,0.00,2,2,apt,74.00,4229827.00,57159.82
+Roma Sur, Cuauhtémoc, Distrito Federal,Jrasesores,19.405299,-99.1649891,6,4,2,0,0,0.00,1,2,apt,67.00,4100000.00,61194.03
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,7,0,2,0,0,0.00,1,2,apt,91.00,5145000.00,56538.46
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4218675,-99.1636483,7,0,1,0,0,0.00,1,1,apt,39.00,2980000.00,76410.26
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4247667,-99.157579,7,0,2,0,0,1.00,1,2,apt,91.00,5950000.00,65384.62
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,7,0,2,0,0,0.00,1,2,apt,167.00,8250000.00,49401.20
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,7,0,2,0,0,0.00,2,3,apt,162.00,10249470.00,63268.33
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4063936,-99.1638207,4,4,2,0,0,0.00,2,2,apt,140.00,6990000.00,49928.57
+Roma Sur, Cuauhtémoc, Distrito Federal,Promoluxury,19.405299,-99.1649891,7,4,2,0,0,0.00,1,2,apt,70.00,4997000.00,71385.71
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4130477,-99.1615075,7,0,2,0,0,0.00,2,2,apt,144.00,8584000.00,59611.11
+Roma Sur, Cuauhtémoc, Distrito Federal,Incitybienesraices,19.4063936,-99.1638207,4,5,2,0,0,0.00,2,3,apt,286.00,9990000.00,34930.07
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,5,0,2,0,0,1.00,1,2,apt,90.00,5950000.00,66111.11
+Roma Sur, Cuauhtémoc, Distrito Federal,Jrasesores,19.405299,-99.1649891,6,4,2,0,0,0.00,2,2,apt,77.00,4747034.00,61649.79
+Roma," Roma Norte, Cuauhtémoc", Distrito Federal,Oscarjuarezmontao,19.4029252,-99.1680476,1,5,2,0,0,0.00,2,3,apt,111.00,6909413.00,62246.96
+Roma Norte, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.410758,-99.1684745,365,5,2,0,0,0.00,1,3,apt,160.00,8500000.00,53125.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.416758,-99.1624745,365,5,2,0,0,0.00,1,3,apt,150.00,8000000.00,53333.33
+Constitucion," Roma Sur, Cuauhtémoc", Distrito Federal,Barragan Br,19.4020693,-99.1824032,210,4,2,0,0,0.00,1,2,apt,134.00,6137930.00,45805.45
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.413758,-99.1654745,60,5,2,0,0,0.00,1,3,apt,160.00,8500000.00,53125.00
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.413758,-99.1654745,60,5,2,0,0,0.00,1,3,apt,150.00,8000000.00,53333.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.420787,-99.178499,180,4,2,0,0,0.00,1,2,apt,85.00,4695000.00,55235.29
+Avenida Baja California 15," Roma Sur, Ciudad De México, Cdmx, México, Roma Sur, Cuauhtémoc", Distrito Federal,Metrica Inmobiliaria,19.4067443,-99.1561012,60,0,2,1,7,3700.00,1,2,apt,95.00,4570000.00,48105.26
+Constitucion," Roma Sur, Cuauhtémoc", Distrito Federal,Barragan Br,19.4020558,-99.1824457,50,4,2,0,0,0.00,1,2,apt,94.00,6288450.00,66898.40
+Nayarit," Roma Sur, Cuauhtémoc", Distrito Federal,Hipoo Mx,19.4100208,-99.1609595,18,6,2,0,0,0.00,1,3,apt,122.00,7040000.00,57704.92
+Roma Sur, Cuauhtémoc, Distrito Federal,Barragan Br,19.441631,-99.14581,60,4,2,0,0,0.00,1,2,apt,73.00,4527000.00,62013.70
+Roma Sur, Cuauhtémoc, Distrito Federal,Barragan Br,19.400076,-99.1843968,60,4,2,0,0,0.00,1,2,apt,77.00,4827000.00,62688.31
+Cordoba," Roma Norte, Cuauhtémoc", Distrito Federal,Home Seekers,19.4124914,-99.1572585,35,3,1,0,0,0.00,1,2,apt,76.00,4450000.00,58552.63
+Tonala," Roma Norte, Cuauhtémoc", Distrito Federal,Century21 Levalgroup,19.4130341,-99.1614773,270,0,3,0,0,0.00,2,3,apt,193.00,14148523.00,73308.41
+Tonala 177 Depto 302 Ph," Roma Norte, Cuauhtémoc", Distrito Federal,Century21 Levalgroup,19.4130341,-99.1614773,270,0,2,0,0,0.00,2,2,apt,91.00,13333718.00,146524.37
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4029284,-99.16806,90,5,2,0,0,0.00,2,3,apt,111.00,7140000.00,64324.32
+SN,Cuauhtemoc, Distrito Federal,Airnetwork Asesores Inmob,19.4311322,-99.1681413,330,8,5,0,0,0.00,2,3,apt,172.00,10900000.00,63372.09
+Roma Norte, Cuauhtémoc, Distrito Federal,Airnetwork Asesores Inmob,19.4195256,-99.162549,365,5,2,0,0,0.00,3,2,apt,140.00,8400000.00,60000.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Zona Ryg,19.4019283,-99.1690601,150,5,2,0,0,0.00,2,3,apt,113.00,6000000.00,53097.35
+Chiapas," Roma Norte, Cuauhtémoc", Distrito Federal,Eka Soluciones Inmobiliarias,19.4120249,-99.1642866,365,4,2,0,0,0.00,1,2,apt,77.00,5500000.00,71428.57
+Sinaloa," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4202853,-99.1696874,330,3,2,0,0,0.00,2,1,apt,158.00,6900000.00,43670.89
+Zacatecas," Roma Sur, Cuauhtémoc", Distrito Federal,Luxence,19.4446241,-99.1286416,90,7,3,0,0,0.00,2,3,apt,284.00,12700000.00,44718.31
+Roma Norte, Cuauhtémoc, Distrito Federal,Espaciosurbanosmx,19.4172482,-99.1716012,270,2,1,0,0,0.00,1,1,apt,36.00,3489158.00,96921.06
+Tlacotalpan," Roma Norte, Cuauhtémoc", Distrito Federal,Gpobm3,19.4052563,-99.1662026,60,5,2,0,0,0.00,1,2,apt,190.00,11317200.00,59564.21
+Tepeji," Roma Sur, Cuauhtémoc", Distrito Federal,Cattoribr,19.4078138,-99.1618723,17,6,2,0,0,0.00,2,3,apt,151.00,7568500.00,50122.52
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4155297,-99.1666371,300,4,2,0,0,0.00,1,2,apt,107.00,6250000.00,58411.22
+Roma Sur, Cuauhtémoc, Distrito Federal,Zona Ryg,19.4049518,-99.1660872,330,5,2,0,0,0.00,2,3,apt,113.00,6890000.00,60973.45
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Homes Real Estate,19.4222565,-99.1564692,270,5,3,0,0,0.00,2,2,apt,161.00,6990000.00,43416.15
+Roma Sur, Cuauhtémoc, Distrito Federal,Airnetwork Asesores Inmob,19.405299,-99.1649891,365,5,2,0,0,0.00,1,3,apt,84.00,4157000.00,49488.10
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4158401,-99.1596792,240,5,2,0,0,0.00,2,3,apt,201.00,11670000.00,58059.70
+Cordoba," Roma Norte, Cuauhtémoc", Distrito Federal,Remax Satelite,19.4189,-99.1588,120,0,1,0,4,0.00,1,2,apt,121.00,6995000.00,57809.92
+Salina Cruz," Roma Sur, Cuauhtémoc", Distrito Federal,Veronica Porraz,19.4031573,-99.1650107,270,5,2,0,0,0.00,2,2,apt,218.00,9995000.00,45848.62
+Sinaloa," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4202448,-99.1695894,365,4,2,0,0,0.00,2,2,apt,160.00,6900000.00,43125.00
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4451,-99.1461,46,5,3,0,0,0.00,1,2,apt,146.00,8800000.00,60273.97
+Salina Cruz," Roma Sur, Cuauhtémoc", Distrito Federal,Veronica Porraz,19.4031573,-99.1650107,270,5,2,0,0,0.00,2,2,apt,220.00,9950000.00,45227.27
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,78.00,5093660.00,65303.33
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,114.00,6836397.00,59968.39
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,78.00,5073260.00,65041.79
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4202688,-99.1642694,46,5,3,0,0,0.00,2,2,apt,192.00,9000000.00,46875.00
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,75.00,4935667.00,65808.89
+Cordoba," Roma Norte, Cuauhtémoc", Distrito Federal,Home Seekers,19.4124914,-99.1572585,35,5,2,0,0,0.00,2,2,apt,127.00,8850000.00,69685.04
+2 De Abril 2007," Roma, Monterrey",Nuevo Leon,Century21 Urbana,25.6562256,-100.2966267,240,0,2,0,0,0.00,1,3,apt,103.10,4488936.00,43539.63
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,107.00,6501913.00,60765.54
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,67.00,4332353.00,64661.99
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,67.00,4352753.00,64966.46
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,75.00,4894867.00,65264.89
+Viaducto," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.40132,-99.1681,39,0,2,1,1,2000.00,1,3,apt,84.00,4061000.00,48345.24
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Homes Real Estate,19.4222565,-99.1564692,270,5,3,0,0,0.00,2,2,apt,180.00,6100000.00,33888.89
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,77.00,4617866.00,59972.29
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,65.00,4272137.00,65725.18
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,67.00,4393553.00,65575.42
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,65.00,4251737.00,65411.34
+Baja California," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,2,1,1,0.00,1,2,apt,95.20,4570000.00,48004.20
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,75.00,4915267.00,65536.89
+San Luis Potosi," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4137406,-99.1610013,25,2,1,0,0,0.00,1,1,apt,53.00,4494244.00,84797.06
+Queretaro," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.413676,-99.1654703,21,6,3,0,0,0.00,1,3,apt,152.00,8500000.00,55921.05
+Av. Álvaro Obregón," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4182279,-99.16194,26,5,2,0,0,0.00,1,3,apt,87.00,3750000.00,43103.45
+San Luis Potosi 136," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,1,1,5,0.00,1,1,apt,53.02,4492244.00,84727.35
+San Luis Potosi," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4137406,-99.1610013,25,6,3,0,0,0.00,2,3,apt,129.00,11248826.00,87200.20
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4046152,-99.1662218,35,5,2,0,0,0.00,2,2,apt,141.00,7651263.00,54264.28
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Remax Prosperity,19.4229547,-99.1652534,180,0,2,1,9,0.00,1,2,apt,85.00,4995000.00,58764.71
+Roma Sur, Cuauhtémoc, Distrito Federal,Zona Ryg,19.3999283,-99.1710601,150,4,2,0,0,0.00,2,2,apt,104.00,5700000.00,54807.69
+San Luis Potosi," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4137406,-99.1610013,25,4,2,0,0,0.00,1,2,apt,102.00,7463773.00,73174.25
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4090847,-99.1643187,365,4,2,0,0,0.00,1,2,apt,107.00,8521860.00,79643.55
+Tonalá," Roma Norte, Cuauhtémoc", Distrito Federal,Cattoribr,19.4129403,-99.1615832,330,2,1,0,0,0.00,1,1,apt,116.00,6795000.00,58577.59
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4234541,-99.1619184,44,2,1,0,0,0.00,1,1,apt,70.00,3250000.00,46428.57
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4046152,-99.1662218,35,5,2,0,0,0.00,2,2,apt,244.00,8952615.00,36691.05
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4046152,-99.1662218,35,5,2,0,0,0.00,2,2,apt,228.00,8850000.00,38815.79
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,74.00,4441570.00,60021.22
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,89.00,7299250.00,82014.04
+Tlacotalpan 89," Roma Sur, Cuauhtémoc", Distrito Federal,Century21 Living,19.4046152,-99.1662218,270,0,2,0,0,0.00,2,2,apt,120.24,7550000.00,62791.08
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.424552,-99.1583315,33,0,2,0,0,0.00,1,2,apt,80.00,839652.00,10495.65
+San Luis Potosi," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4137406,-99.1610013,25,4,2,0,0,0.00,2,2,apt,102.00,8026715.00,78693.28
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,74.00,4419100.00,59717.57
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,150.00,6111850.00,40745.67
+Querétaro, Cuauhtémoc, Distrito Federal,Circulobienesraices,19.4153499,-99.1582168,90,0,2,0,0,0.00,2,3,apt,129.00,10833000.00,83976.74
+Roma Sur, Cuauhtémoc, Distrito Federal,Zona Ryg,19.4019283,-99.1690601,365,5,2,0,0,0.00,2,3,apt,149.00,9670000.00,64899.33
+Roma Sur, Cuauhtémoc, Distrito Federal,Zona Ryg,19.3999283,-99.1710601,365,5,2,0,0,0.00,2,3,apt,112.00,6790000.00,60625.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Barragan Br,19.405299,-99.1649891,365,4,2,0,0,0.00,2,2,apt,90.00,5700000.00,63333.33
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4046152,-99.1662218,35,5,2,0,0,0.00,2,2,apt,134.00,7752143.00,57851.81
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4046152,-99.1662218,35,5,2,0,0,0.00,2,2,apt,126.00,7126687.00,56561.01
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4046152,-99.1662218,35,5,2,0,0,0.00,2,2,apt,130.00,7449503.00,57303.87
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4046152,-99.1662218,35,5,2,0,0,0.00,2,2,apt,136.00,7348623.00,54033.99
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,88.00,7282720.00,82758.18
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4992850.00,65695.39
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,86.00,5956650.00,69263.37
+Huatabampo 30," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,3,1,1,0.00,2,3,apt,128.00,6958000.00,54359.38
+Tonalá," Roma Norte, Cuauhtémoc", Distrito Federal,Jlp Realty Homes,19.4153848,-99.1619716,45,5,2,0,0,0.00,2,2,apt,112.00,13170500.00,117593.75
+Querétaro, Cuauhtémoc, Distrito Federal,Circulobienesraices,19.4153499,-99.1582168,90,0,1,0,0,0.00,1,1,apt,57.00,4377600.00,76800.00
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,93.00,6030150.00,64840.32
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,92.00,5924650.00,64398.37
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,93.00,5937050.00,63839.25
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,93.00,6767250.00,72766.13
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,78.00,4655643.00,59687.73
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4916300.00,64688.16
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,5704875.00,75064.14
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,99.00,9119400.00,92115.15
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,93.00,5843950.00,62838.17
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,93.00,5750850.00,61837.10
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,92.00,6017550.00,65408.15
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,92.00,5831750.00,63388.59
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,92.00,6747750.00,73345.11
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,89.00,6915220.00,77699.10
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,89.00,7574580.00,85107.64
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,84.00,6969200.00,82966.67
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,78.00,4612462.00,59134.13
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,78.00,4632090.00,59385.77
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,78.00,4592835.00,58882.50
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,78.00,5041460.00,64634.10
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,78.00,4710600.00,60392.31
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,5222500.00,68717.11
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,5069400.00,66702.63
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,78.00,5324960.00,68268.72
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4985050.00,65592.76
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4908500.00,64585.53
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4700054.00,61842.82
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4831950.00,63578.29
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4755400.00,62571.05
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,103.00,9025380.00,87625.05
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,76.00,4839750.00,63680.92
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,103.00,8982870.00,87212.33
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,86.00,6303500.00,73296.51
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,86.00,6216700.00,72287.21
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,86.00,6238400.00,72539.53
+Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal,Bienesraiceslomelin,19.4109247,-99.1651635,56,0,2,0,0,0.00,1,2,apt,86.00,6173300.00,71782.56
+Roma Sur, Cuauhtémoc, Distrito Federal,Sata7784633,19.4052016,-99.1660064,120,6,2,0,0,0.00,2,3,apt,293.00,11050000.00,37713.31
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,21,4,2,0,0,0.00,1,2,apt,83.00,4643350.00,55943.98
+Roma Sur, Cuauhtémoc, Distrito Federal,Kmk Inmobiliaria ,19.406299,-99.1639891,180,5,2,0,0,0.00,1,3,apt,105.00,4900000.00,46666.67
+Nayarit," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4098231,-99.162138,27,6,2,0,0,0.00,1,3,apt,142.00,7040000.00,49577.46
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,74.00,4441570.00,60021.22
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,2,2,apt,97.00,5751680.00,59295.67
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4676520.00,57734.81
+Avenida Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,1,1,1,0.00,1,2,apt,88.00,3500000.00,39772.73
+Córdoba 223," Roma Norte, Cuauhtémoc", Distrito Federal,Kw Pedregal,19.4128016,-99.1572693,730,0,2,0,2,0.00,1,2,apt,96.50,5150000.00,53367.88
+Roma Sur, Cuauhtémoc, Distrito Federal,Zona Ryg,19.3999518,-99.1710872,365,5,2,0,0,0.00,2,3,apt,159.00,10030000.00,63081.76
+Tonala 177 Depto 301 Ph," Roma Norte, Cuauhtémoc", Distrito Federal,Century21 Levalgroup,19.4130341,-99.1614773,270,0,2,0,0,0.00,2,2,apt,100.00,11720768.00,117207.68
+Querétaro, Cuauhtémoc, Distrito Federal,Circulobienesraices,19.4153499,-99.1582168,90,0,3,0,0,0.00,3,3,apt,164.00,13868600.00,84564.63
+Querétaro, Cuauhtémoc, Distrito Federal,Circulobienesraices,19.4153499,-99.1582168,90,0,2,0,0,0.00,1,2,apt,77.00,5463500.00,70954.55
+Acayucan," Roma Sur, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4043152,-99.156675,150,4,2,0,0,0.00,1,2,apt,99.00,4100000.00,41414.14
+Querétaro, Cuauhtémoc, Distrito Federal,Circulobienesraices,19.4153499,-99.1582168,90,0,2,0,0,0.00,2,2,apt,107.00,9591000.00,89635.51
+Colima," Roma Norte, Cuauhtémoc", Distrito Federal,Luxence,19.4182766,-99.166438,90,4,2,0,0,0.00,2,2,apt,160.00,10600000.00,66250.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Barragan Br,19.405299,-99.1649891,365,4,2,0,0,0.00,2,2,apt,92.00,6037000.00,65619.57
+Tonalá," Roma Norte, Cuauhtémoc", Distrito Federal,Cattoribr,19.4129403,-99.1615832,330,4,2,0,0,0.00,1,2,apt,114.00,8550000.00,75000.00
+Colima," Roma Norte, Cuauhtémoc", Distrito Federal,Xlife Real Estate,19.4203566,-99.1587749,20,6,2,0,0,0.00,1,3,apt,140.00,6500000.00,46428.57
+Venta De Departamento En Colonia Roma," Roma Sur, Cuauhtémoc", Distrito Federal,Skgasesoresinmobiliarios,19.4095846,-99.1575732,300,0,2,0,1,0.00,2,3,apt,154.00,22330000.00,145000.00
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4676520.00,57734.81
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4829620.00,59624.94
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,74.00,4419100.00,59717.57
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,74.00,4419100.00,59717.57
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,5135820.00,63405.19
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,2,2,apt,97.00,5999560.00,61851.13
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4753070.00,58679.88
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,83.00,5222500.00,62921.69
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,83.00,4949550.00,59633.13
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,93.00,5064690.00,54459.03
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,131.00,6360510.00,48553.51
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,2,2,apt,97.00,6042960.00,62298.56
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4168211,-99.1596475,46,5,2,0,0,0.00,2,3,apt,161.00,10600000.00,65838.51
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,119.00,6290450.00,52860.92
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,5856980.00,60381.24
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,6229380.00,64220.41
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,6042960.00,62298.56
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4829620.00,59624.94
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,78.00,4632090.00,59385.77
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,78.00,4612462.00,59134.13
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,93.00,5845980.00,62860.00
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,78.00,4710600.00,60392.31
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,6129760.00,63193.40
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,2,2,apt,97.00,5999560.00,61851.13
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,78.00,4655643.00,59687.73
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,120.00,6306550.00,52554.58
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,6064660.00,62522.27
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,2,2,apt,97.00,6129760.00,63193.40
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,5763880.00,59421.44
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,83.00,4719900.00,56866.27
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,2,2,apt,97.00,5844580.00,60253.40
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,5751680.00,59295.67
+Puerto Mexico," Roma Sur, Cuauhtémoc", Distrito Federal,Ps Bienesraices,19.4037919,-99.1649783,21,4,2,0,0,0.00,2,2,apt,114.00,8000000.00,70175.44
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Morris Lan,19.406804,-99.169478,46,5,3,0,0,0.00,1,2,apt,176.00,9500000.00,53977.27
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4829620.00,59624.94
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,85.00,4918890.00,57869.29
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4753070.00,58679.88
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,83.00,4796450.00,57788.55
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4753070.00,58679.88
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4676520.00,57734.81
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4829620.00,59624.94
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,2,2,apt,97.00,6216180.00,64084.33
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,78.00,4655643.00,59687.73
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,157.00,6380520.00,40640.25
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,5135820.00,63405.19
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,81.00,4906170.00,60570.00
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,93.00,5845980.00,62860.00
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,183.00,8026360.00,43859.89
+Roma Sur, Cuauhtémoc, Distrito Federal,Neximo,19.4087933,-99.1652066,31,0,2,0,0,0.00,1,2,apt,151.00,9859115.00,65292.15
+Roma Norte, Cuauhtémoc, Distrito Federal,Primer Nivel Inmobiliaria,19.4211605,-99.1554569,120,3,1,0,0,0.00,1,1,apt,62.00,4206000.00,67838.71
+San Luis Potosi," Roma Norte, Cuauhtémoc", Distrito Federal,Espaciosurbanosmx,19.413879,-99.160909,210,2,1,0,0,0.00,1,1,apt,60.00,4623086.00,77051.43
+Roma Sur, Cuauhtémoc, Distrito Federal,Barragan Br,19.405299,-99.1649891,365,4,2,0,0,0.00,2,2,apt,91.00,6650000.00,73076.92
+Departamentos En Preventa Av. Eugenio Garza Sada," Zona Distrito Tec (vav), Roma, Monterrey",Nuevo Leon,Urban Properties,25.6565947,-100.2953585,36,0,1,0,0,1200.00,1,1,apt,40.00,2325668.00,58141.70
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,1,0.00,2,3,apt,270.00,14040000.00,52000.00
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4109231,-99.1651722,35,4,2,0,0,0.00,1,2,apt,97.00,5670780.00,58461.65
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4148155,-99.1603133,46,6,2,0,0,0.00,1,3,apt,145.00,9080660.00,62625.24
+Roma Sur, Cuauhtémoc, Distrito Federal,Barragan Br,19.405299,-99.1649891,365,4,2,0,0,0.00,2,2,apt,92.00,6300000.00,68478.26
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Century21bautistayasociados,19.4046152,-99.1662218,240,0,2,0,0,0.00,2,2,apt,120.00,7883287.00,65694.06
+SN,Cuauhtemoc, Distrito Federal,Rematadascom,19.4113464,-99.1629528,60,0,3,0,0,0.00,1,3,apt,100.00,1758320.00,17583.20
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Morris Lan,19.406804,-99.169478,46,4,2,0,0,0.00,1,2,apt,105.00,5350000.00,50952.38
+Viaducto Miguel Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,1,1,1,0.00,1,2,apt,67.00,2690000.00,40149.25
+Tepeji," Roma Sur, Cuauhtémoc", Distrito Federal,Cattoribr,19.4078138,-99.1618723,17,6,2,0,0,0.00,2,3,apt,162.00,8093500.00,49959.88
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Century21bautistayasociados,19.4046152,-99.1662218,240,0,2,0,0,0.00,2,2,apt,106.00,8952615.00,84458.63
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4046152,-99.1662218,90,4,2,0,0,0.00,2,2,apt,120.00,7650000.00,63750.00
+Tlacotalpan 89," Roma Sur, Cuauhtémoc", Distrito Federal,Century21 Living,19.4046152,-99.1662218,270,0,2,0,0,0.00,2,2,apt,120.55,7030000.00,58316.05
+Nayarit," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4098231,-99.162138,27,4,2,0,0,0.00,1,2,apt,86.00,4700000.00,54651.16
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Century21bautistayasociados,19.4046152,-99.1662218,240,0,2,0,0,0.00,2,2,apt,120.00,7651263.00,63760.53
+Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Inmoinn,19.4029252,-99.1680476,365,4,2,0,0,0.00,2,2,apt,111.00,6580413.00,59283.00
+Tonala," Roma Norte, Cuauhtémoc", Distrito Federal,Avitana,19.4210293,-99.1635414,60,2,1,0,0,0.00,1,1,apt,54.00,3912000.00,72444.44
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Mi Casa Propia,19.4054829,-99.1647868,90,5,2,0,0,0.00,2,3,apt,111.00,6790000.00,61171.17
+Córdoba," Roma Norte, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4128016,-99.1572693,90,2,1,0,0,0.00,1,1,apt,50.00,3147772.00,62955.44
+Roma Sur, Cuauhtémoc, Distrito Federal,Zona Ryg,19.4009518,-99.1700872,365,5,2,0,0,0.00,2,3,apt,112.00,6890000.00,61517.86
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,8,0,2,1,6,0.00,2,2,apt,86.80,5845980.00,67350.00
+Puerto Mexico," Roma Sur, Cuauhtémoc", Distrito Federal,Ps Bienesraices,19.4037919,-99.1649783,21,3,2,0,0,0.00,2,1,apt,154.00,7700000.00,50000.00
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4168211,-99.1596475,46,7,3,0,0,0.00,2,3,apt,193.00,10050000.00,52072.54
+Roma Norte, Cuauhtémoc, Distrito Federal,Sata7784633,19.4222428,-99.1627869,120,3,1,0,0,0.00,1,1,apt,39.00,3516884.00,90176.51
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4158401,-99.1596792,240,4,2,0,0,0.00,2,2,apt,161.00,9550000.00,59316.77
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.438631,-99.14881,90,6,3,0,0,0.00,2,3,apt,150.00,8706563.00,58043.75
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4090847,-99.1643187,365,3,1,0,0,0.00,1,2,apt,64.00,4340240.00,67816.25
+Cordoba," Roma Norte, Cuauhtémoc", Distrito Federal,Home Seekers,19.4124914,-99.1572585,35,4,2,0,0,0.00,1,2,apt,82.00,4850000.00,59146.34
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.4155552,-99.1615919,31,0,2,0,0,0.00,2,3,apt,270.00,13500000.00,50000.00
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Century21 Viva,19.421399,-99.1587768,300,0,2,0,0,0.00,2,2,apt,166.00,11500000.00,69277.11
+Cozumel," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4171424,-99.1703275,150,2,1,0,0,0.00,1,1,apt,65.00,5570000.00,85692.31
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4046152,-99.1662218,90,6,2,0,0,0.00,2,3,apt,121.00,8700000.00,71900.83
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4158401,-99.1596792,240,5,2,0,0,0.00,2,3,apt,194.00,11100000.00,57216.49
+Av. Baja California," Roma Sur, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4067443,-99.1561012,90,4,2,0,0,0.00,1,2,apt,89.00,4720000.00,53033.71
+Viaducto," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,2,1,1,0.00,1,2,apt,91.00,4061005.00,44626.43
+Roma Sur, Cuauhtémoc, Distrito Federal,Nik Bienesraices,19.405299,-99.1649891,120,4,2,0,0,0.00,1,2,apt,107.00,8521860.00,79643.55
+Roma Sur, Cuauhtémoc, Distrito Federal,Nik Bienesraices,19.405299,-99.1649891,19,4,2,0,0,0.00,1,2,apt,115.00,5342425.00,46455.87
+Salamanca," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.42064,-99.1702226,35,2,1,0,0,0.00,1,1,apt,40.00,4120000.00,103000.00
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.403459,-99.1640113,60,5,2,0,0,0.00,2,3,apt,149.00,9670000.00,64899.33
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Remax Plus,19.4195,-99.1589,45,0,2,1,4,0.00,1,3,apt,112.00,5600000.00,50000.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.415626,-99.1630521,31,0,3,0,0,0.00,2,3,apt,144.00,10134810.00,70380.63
+Roma Sur, Cuauhtémoc, Distrito Federal,Neximo,19.4081659,-99.1643788,31,0,1,0,0,0.00,1,2,apt,70.00,4578675.00,65409.64
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,86.00,4983878.00,57952.07
+Torreon," Roma Sur, Cuauhtémoc", Distrito Federal,Morris Lan,19.402913,-99.1613826,46,7,2,0,0,0.00,2,3,apt,164.00,8229770.00,50181.52
+Puerto Mexico," Roma Sur, Cuauhtémoc", Distrito Federal,Ps Bienesraices,19.4037919,-99.1649783,15,2,1,0,0,0.00,1,1,apt,80.00,5700000.00,71250.00
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,142.00,7154848.00,50386.25
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,87.00,5138544.00,59063.72
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4054829,-99.1647868,60,5,2,0,0,0.00,2,3,apt,111.00,6790000.00,61171.17
+Roma Privada," Roma Privada, Monterrey",Nuevo Leon,Horacio Zamarripa Rivas,25.6441572,-100.2968073,240,5,2,0,0,0.00,1,3,apt,103.00,4993491.00,48480.50
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,5,2,0,0,0.00,2,3,apt,98.00,5790664.00,59088.41
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,87.00,5190136.00,59656.74
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,165.00,8094465.00,49057.36
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Mi Casa Propia,19.403459,-99.1640113,90,5,2,0,0,0.00,2,3,apt,149.00,9670000.00,64899.33
+Puebla," Roma Norte, Cuauhtémoc", Distrito Federal,Licmarthasbarandalicmar,19.4206466,-99.170547,150,5,2,0,0,0.00,2,2,apt,99.00,7690640.00,77683.23
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,86.00,5216099.00,60652.31
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,98.00,5761134.00,58787.08
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,146.00,7298901.00,49992.47
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,98.00,5876357.00,59962.83
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,84.00,5093171.00,60632.99
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,98.00,5703523.00,58199.21
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,5,2,0,0,0.00,2,3,apt,98.00,5732989.00,58499.89
+Sinaloa," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,1,0.00,2,2,apt,160.00,6900000.00,43125.00
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4168211,-99.1596475,300,6,3,0,0,0.00,1,3,apt,150.00,10400000.00,69333.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.4153088,-99.1632172,31,0,3,0,0,0.00,2,3,apt,150.00,10549350.00,70329.00
+Álvaro Obregón," Roma Norte, Cuauhtémoc", Distrito Federal,Century21promozurangel,19.4173906,-99.1630212,27,0,1,0,0,0.00,1,1,apt,33.59,3111913.00,92644.03
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,2,1,1,0.00,2,2,apt,140.00,7800000.00,55714.29
+Roma Sur, Cuauhtémoc, Distrito Federal,Nik Bienesraices,19.405299,-99.1649891,120,0,2,0,0,0.00,1,2,apt,141.00,9859115.00,69922.80
+Sinaloa," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,1,0.00,2,1,apt,158.00,6900000.00,43670.89
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4226693,-99.1552628,40,4,2,0,0,0.00,2,2,apt,122.00,7621205.00,62468.89
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,5,2,0,0,0.00,2,3,apt,98.00,5675313.00,57911.36
+Queretaro," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,1,0.00,1,2,apt,77.00,5400000.00,70129.87
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Remax Real Estate Consultants,19.4088,-99.1637,120,0,2,0,4,0.00,1,2,apt,128.00,8521860.00,66577.03
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,5,2,0,0,0.00,2,3,apt,95.00,5299915.00,55788.58
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,98.00,5450689.00,55619.28
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,98.00,5473077.00,55847.72
+Roma Sur, Cuauhtémoc, Distrito Federal,Nik Bienesraices,19.405299,-99.1649891,120,4,2,0,0,0.00,1,2,apt,81.00,5503280.00,67941.73
+Frontera," Roma Norte, Cuauhtémoc", Distrito Federal,Distritocapitalcondesa,19.4245374,-99.1573777,11,5,2,0,0,0.00,1,2,apt,129.00,8000000.00,62015.50
+Roma Sur, Cuauhtémoc, Distrito Federal,Neximo,19.4053485,-99.1552971,31,0,2,0,0,0.00,2,3,apt,111.00,7140000.00,64324.32
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4184898,-99.1637389,60,4,2,0,0,0.00,1,2,apt,117.00,9200000.00,78632.48
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,87.00,5006952.00,57551.17
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,84.00,4796482.00,57100.98
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,98.00,5645911.00,57611.34
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,84.00,4994275.00,59455.65
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,5,2,0,0,0.00,2,3,apt,84.00,5559961.00,66190.01
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,87.00,4903769.00,56365.16
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4137406,-99.1610013,11,0,2,0,0,0.00,2,2,apt,163.00,9935982.00,60956.94
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Urp Propiedades,19.4030201,-99.1687004,300,2,1,0,0,0.00,1,1,apt,51.00,3200000.00,62745.10
+Chiapas," Roma Norte, Cuauhtémoc", Distrito Federal,Covein Br,19.4138909,-99.1557557,11,3,1,0,0,0.00,1,2,apt,75.00,4450000.00,59333.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Barragan Br,19.4195256,-99.162549,365,5,2,0,0,0.00,2,3,apt,93.00,6873000.00,73903.23
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4052563,-99.1662026,365,4,2,0,0,0.00,2,2,apt,140.00,7800000.00,55714.29
+Av. Baja California," Roma Sur, Cuauhtémoc", Distrito Federal,Century 21covarrubias,19.4063969,-99.1628482,210,0,2,0,0,2000.00,2,2,apt,98.00,6850000.00,69897.96
+Valladolid0," Roma Norte, Cuauhtémoc", Distrito Federal,Sil Mexico,19.419863,-99.1682223,270,0,1,0,0,0.00,1,1,apt,42.00,3425000.00,81547.62
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4185297,-99.1636371,300,4,2,0,0,0.00,1,2,apt,95.00,5300000.00,55789.47
+Baja California," Roma Sur, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.406153,-99.1631827,24,4,2,0,0,0.00,1,2,apt,72.00,3950000.00,54861.11
+Roma Sur, Cuauhtémoc, Distrito Federal,Barragan Br,19.405299,-99.1649891,365,5,2,0,0,0.00,2,3,apt,93.00,6873000.00,73903.23
+Roma Sur, Cuauhtémoc, Distrito Federal,Airnetwork Asesores Inmob,19.405299,-99.1649891,210,5,2,0,0,0.00,2,3,apt,111.00,4950000.00,44594.59
+Roma, Monterrey,Nuevo Leon,House Inm,25.6542625,-100.2978762,365,2,1,0,0,0.00,1,1,apt,48.00,2750000.00,57291.67
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Goldstone Bienesraices,19.4188488,-99.1613324,90,5,2,0,0,0.00,2,2,apt,185.00,14346500.00,77548.65
+Frontera," Roma Norte, Cuauhtémoc", Distrito Federal,Cbmobikapremium,19.4181531,-99.1652014,150,0,2,0,0,0.00,1,2,apt,133.00,6800000.00,51127.82
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Luxence,19.4089339,-99.1617879,90,4,2,0,0,0.00,1,2,apt,58.00,3835325.00,66126.29
+Bajío 315," Roma Sur, Cuauhtémoc", Distrito Federal,Profesionales Inmobiliariosmx,19.4029284,-99.16806,270,0,2,0,12,2500.00,2,2,apt,104.00,6426000.00,61788.46
+Jalapa," Roma Norte, Cuauhtémoc", Distrito Federal,Espacios Inmobiliarios,19.4204591,-99.1614862,60,5,2,0,0,0.00,1,3,apt,150.00,5900000.00,39333.33
+Constitucion," Roma Sur, Cuauhtémoc", Distrito Federal,Barragan Br,19.4020221,-99.1823889,46,6,3,0,0,0.00,2,3,apt,169.00,9687900.00,57324.85
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Casasydepas Com,19.4050031,-99.1674956,120,4,2,0,0,0.00,1,2,apt,84.00,5006952.00,59606.57
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4046152,-99.1662218,365,4,2,0,0,0.00,2,2,apt,127.00,7030000.00,55354.33
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,3,0,0,0.00,1,2,apt,176.00,9500000.00,53977.27
+Quintana Roo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4058863,-99.1641146,35,4,2,0,0,0.00,2,2,apt,135.00,7096878.00,52569.47
+Tonalá," Roma Norte, Cuauhtémoc", Distrito Federal,Urp Propiedades,19.4130341,-99.1614773,300,5,2,0,0,0.00,2,2,apt,137.00,9905250.00,72301.09
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4188488,-99.1613324,36,5,2,0,0,0.00,1,3,apt,112.00,5600000.00,50000.00
+Puebla," Roma Norte, Cuauhtémoc", Distrito Federal,Licmarthasbarandalicmar,19.4206466,-99.170547,150,6,2,0,0,0.00,2,2,apt,107.00,9086780.00,84923.18
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Quality Gtz,19.413676,-99.1654703,210,6,3,0,0,0.00,1,3,apt,145.00,8500000.00,58620.69
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Espaciosurbanosmx,19.4052563,-99.1662026,54,5,2,0,0,0.00,1,2,apt,172.00,8965800.00,52126.74
+Roma Norte, Cuauhtémoc, Distrito Federal,Byg Realestate,19.4195256,-99.162549,60,4,2,0,0,0.00,2,2,apt,85.00,6300000.00,74117.65
+San Luis Potosí," Roma Norte, Cuauhtémoc", Distrito Federal,Business Property,19.413879,-99.160909,36,4,2,0,0,0.00,1,2,apt,98.00,4650000.00,47448.98
+Roma Sur, Cuauhtémoc, Distrito Federal,Neximo,19.4085345,-99.1644733,31,0,2,0,0,0.00,1,2,apt,78.00,4996100.00,64052.56
+Valladolid0," Roma Norte, Cuauhtémoc", Distrito Federal,Mexicosil,19.417759,-99.167813,120,0,1,0,0,0.00,1,1,apt,42.00,3425000.00,81547.62
+Roma Privada," Roma Privada, Monterrey",Nuevo Leon,Horacio Zamarripa Rivas,25.6455113,-100.3000259,240,5,2,0,0,0.00,1,3,apt,105.00,5118269.00,48745.42
+Venta De Departamento En La Roma," Roma Sur, Cuauhtémoc", Distrito Federal,Skgasesoresinmobiliarios,19.4196927,-99.1560364,365,0,2,0,0,0.00,1,2,apt,129.00,8200000.00,63565.89
+Veracruz," Roma Norte, Cuauhtémoc", Distrito Federal,Espaciosurbanosmx,19.4180125,-99.1748189,210,3,1,0,0,0.00,1,1,apt,58.00,5420077.00,93449.60
+Roma Norte, Cuauhtémoc, Distrito Federal,Safe Rent,19.412896,-99.1623996,365,4,2,0,0,0.00,1,2,apt,57.00,4050000.00,71052.63
+Roma Sur, Cuauhtémoc, Distrito Federal,Airnetwork Asesores Inmob,19.405299,-99.1649891,14,4,2,0,0,0.00,2,2,apt,130.00,4780000.00,36769.23
+Chiapas," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4117559,-99.1649783,365,2,1,0,0,0.00,1,1,apt,58.00,5500000.00,94827.59
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4184822,-99.1614643,90,0,2,0,0,0.00,1,3,apt,80.00,3840000.00,48000.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Espaciosurbanosmx,19.4195256,-99.162549,210,2,1,0,0,0.00,1,1,apt,31.00,3060008.00,98709.94
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4017853,-99.168802,90,0,2,0,0,0.00,2,3,apt,157.00,840259.00,5351.97
+Av. Cuahtemoc," Roma Sur, Cuauhtémoc", Distrito Federal,Heyserenta Com,19.4055473,-99.1560374,60,5,2,0,0,0.00,1,3,apt,93.00,4190000.00,45053.76
+San Luis Potosi," Roma Norte, Cuauhtémoc", Distrito Federal,Espaciosurbanosmx,19.413879,-99.160909,41,2,1,0,0,0.00,1,1,apt,60.00,4500000.00,75000.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,3,0,0,0.00,1,3,apt,193.00,6195000.00,32098.45
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4296796,-99.1576152,90,0,1,0,0,0.00,1,2,apt,80.00,4200000.00,52500.00
+Roma Privada," Roma Privada, Monterrey",Nuevo Leon,Horacio Zamarripa Rivas,25.6446601,-100.2947474,240,5,2,0,0,0.00,1,3,apt,112.00,5511689.00,49211.51
+Medellin340," Roma Sur, Cuauhtémoc", Distrito Federal,Círculo Inmobiliario,19.404442,-99.162688,38,0,2,0,0,0.00,1,2,apt,150.00,920000.00,6133.33
+Roma Sur, Cuauhtémoc, Distrito Federal,Spacio Bienesraices,19.4036152,-99.1672218,270,5,2,0,0,0.00,1,2,apt,106.00,7126687.00,67232.90
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,111.00,6870000.00,61891.89
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,180.00,11050000.00,61388.89
+Queretaro," Roma Norte, Cuauhtémoc", Distrito Federal,Coldwellbankercity,19.4149444,-99.1600968,120,0,2,0,0,0.00,2,3,apt,108.00,7676040.00,71074.44
+Roma Sur, Monterrey,Nuevo Leon,Enders Inmuebles,25.6471662,-100.2975775,120,4,2,0,0,0.00,2,2,apt,82.00,4100000.00,50000.00
+Nayarit," Roma Sur, Cuauhtémoc", Distrito Federal,Circulobienesraices,19.4100273,-99.161073,90,0,2,0,0,0.00,1,2,apt,77.00,4700000.00,61038.96
+Roma Norte, Cuauhtémoc, Distrito Federal,Constantino Bienes Raices,19.4158447,-99.1592414,20,3,1,0,0,0.00,1,2,apt,88.00,2690000.00,30568.18
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,1,0.00,1,2,apt,85.00,4595000.00,54058.82
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,93.00,6306550.00,67812.37
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,112.00,6790000.00,60625.00
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,134.00,7650000.00,57089.55
+Cuahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,8,0,2,1,6,0.00,2,2,apt,83.17,5363485.00,64488.22
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,103.00,7780000.00,75533.98
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,1,0,0,0.00,1,3,apt,163.00,10200000.00,62576.69
+2 De Abril- Jesus Dionisio Gonzalez," Roma, Monterrey",Nuevo Leon,C21 Solorzanoyasociados,25.6542625,-100.2978762,90,0,2,0,0,0.00,1,4,apt,85.50,4084722.00,47774.53
+Av Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.422946,-99.1652713,240,4,2,0,0,0.00,1,2,apt,93.00,4595000.00,49408.60
+Chiapas," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4127648,-99.1605674,365,3,1,0,0,0.00,1,2,apt,84.00,5500000.00,65476.19
+Cordoba," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4147648,-99.1578207,25,5,2,0,0,0.00,1,3,apt,86.00,4495000.00,52267.44
+Roma Sursn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,112.00,6870000.00,61339.29
+Snsm," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,137.00,9905250.00,72301.09
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,90.00,6451941.00,71688.23
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,86.00,5999560.00,69762.33
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,95.00,6795009.00,71526.41
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,117.00,7250000.00,61965.81
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,148.00,11390000.00,76959.46
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4168211,-99.1596475,240,4,2,0,0,0.00,2,2,apt,117.00,9350000.00,79914.53
+Departamentos En Preventa Zona Tec Monterrey," Roma, Monterrey",Nuevo Leon,Mundo Raiz,25.6559439,-100.2964731,28,7,1,0,1,0.00,1,2,apt,41.00,2392000.00,58341.46
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.4226693,-99.1552628,40,5,2,0,0,0.00,2,2,apt,150.00,9190720.00,61271.47
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,137.00,9905250.00,72301.09
+Roma Sursn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,149.00,9670000.00,64899.33
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,4,0,0,0.00,1,3,apt,117.00,8854256.00,75677.40
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,111.00,7010000.00,63153.15
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,108.00,13170500.00,121949.07
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,89.00,8584000.00,96449.44
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,8,0,2,1,7,0.00,2,3,apt,111.00,6790000.00,61171.17
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,2,0,0,0.00,1,2,apt,111.00,5550000.00,50000.00
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4159657,-99.163205,35,7,3,0,0,0.00,2,3,apt,187.00,10850000.00,58021.39
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,78.00,4710600.00,60392.31
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,76.00,6661750.00,87654.61
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,99.00,9694000.00,97919.19
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4155552,-99.1615919,25,5,2,0,0,0.00,2,3,apt,270.00,14040000.00,52000.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4084483,-99.1641243,300,4,2,0,0,0.00,1,2,apt,74.00,4369000.00,59040.54
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4058661,-99.1605993,14,6,3,0,0,0.00,2,3,apt,140.00,8706563.00,62189.74
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,125.00,7350000.00,58800.00
+Roma Sursn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,112.00,6790000.00,60625.00
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,141.00,7550000.00,53546.10
+Calle Manzanillo," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4109219,-99.1662218,24,1,1,0,0,0.00,1,1,Loft,52.00,3500000.00,67307.69
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.4146375,-99.1574697,31,0,1,0,0,0.00,1,1,apt,70.00,4320000.00,61714.29
+Av. Insurgentes Sur179," Roma Norte, Cuauhtémoc", Distrito Federal,Hc Hogar Bienes Raices,19.421902,-99.1636,55,0,1,0,0,0.00,1,1,apt,34.00,2820000.00,82941.18
+Frontera," Roma Norte, Cuauhtémoc", Distrito Federal,Colokrte ,19.4148864,-99.1549892,59,5,2,0,0,0.00,1,2,apt,129.00,8200000.00,63565.89
+Chilpancingo," Roma Norte, Cuauhtémoc", Distrito Federal,Colokrte ,19.4047228,-99.1693665,59,2,1,0,0,0.00,1,1,apt,51.00,3268137.00,64081.12
+Zacatecas," Roma Sur, Cuauhtémoc", Distrito Federal,Quality Habitat,19.4162304,-99.1575166,60,4,2,0,0,0.00,2,2,apt,127.00,8000000.00,62992.13
+Departamentos En Preventa Zona Tec Monterrey," Roma, Monterrey",Nuevo Leon,Mundo Raiz,25.6559439,-100.2964731,44,7,1,0,1,0.00,1,1,apt,40.00,2326000.00,58150.00
+Puebla 277 Roma Norte," Roma Norte, Cuauhtémoc", Distrito Federal,Investemx,19.4213841,-99.1690072,60,2,2,0,1,0.00,2,2,apt,71.00,5580000.00,78591.55
+Tonalá," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4114483,-99.1611243,60,4,2,0,0,0.00,1,2,apt,74.00,4369000.00,59040.54
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4105302,-99.1656737,150,4,2,0,0,0.00,1,2,apt,81.00,4753000.00,58679.01
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4119026,-99.1596531,150,4,2,0,0,0.00,2,2,apt,97.00,5752000.00,59298.97
+Michoacan66," Roma Sur, Cuauhtémoc", Distrito Federal,Graciela Graze,19.411306,-99.173186,240,0,3,0,0,0.00,1,3,apt,186.00,11000000.00,59139.78
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Coldwellbankerpremium,19.4147532,-99.1605853,60,0,2,0,0,0.00,3,3,apt,154.00,17864000.00,116000.00
+Tonalá," Roma Sur, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4114483,-99.1611243,365,4,2,0,0,0.00,1,2,apt,90.00,4300000.00,47777.78
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4156597,-99.164933,365,7,3,0,0,0.00,2,3,apt,220.00,13500000.00,61363.64
+Morelia," Roma Norte, Cuauhtémoc", Distrito Federal,Almanza Inmobiliaria,19.4199917,-99.15528,14,5,2,0,0,0.00,1,3,apt,99.00,5140000.00,51919.19
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4155552,-99.1615919,25,4,2,0,0,0.00,2,2,apt,161.00,8398000.00,52161.49
+Departamentos En Preventa Zona Tec Monterrey," Roma, Monterrey",Nuevo Leon,Mundo Raiz,25.6559439,-100.2964731,28,7,1,0,1,0.00,1,3,apt,82.00,4250000.00,51829.27
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,56.00,4496000.00,80285.71
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,7210.00,4198000.00,582.25
+Puebla 277 Roma Norte," Roma Norte, Cuauhtémoc", Distrito Federal,Investemx,19.4213841,-99.1690072,60,2,2,0,1,0.00,2,2,apt,71.00,5625000.00,79225.35
+Puebla 277 Roma Norte, Cuauhtémoc, Distrito Federal,Investemx,19.4213841,-99.1690072,60,2,2,0,1,0.00,2,2,apt,104.00,7390000.00,71057.69
+Puebla 277 Roma Norte, Cuauhtémoc, Distrito Federal,Investemx,19.4213841,-99.1690072,60,3,3,0,2,0.00,2,3,apt,123.00,13800000.00,112195.12
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Remax Real Estate Consultants,19.4088,-99.1637,120,0,1,0,4,0.00,1,2,apt,66.00,4340240.00,65761.21
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4028811,-99.168873,21,3,1,0,0,0.00,1,2,apt,53.00,3590000.00,67735.85
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,3,1,1,0.00,2,3,apt,140.00,8706563.00,62189.74
+Puebla 277 Roma Norte, Cuauhtémoc, Distrito Federal,Investemx,19.4213841,-99.1690072,60,3,2,0,2,0.00,2,3,apt,108.00,12400000.00,114814.81
+Roma Sur, Cuauhtémoc, Distrito Federal,Nik Bienesraices,19.405299,-99.1649891,120,3,1,0,0,0.00,1,2,apt,66.00,4340240.00,65761.21
+Alejandria," Roma Sur, Monterrey",Nuevo Leon,Century21platinumrealty,25.656675,-100.2944792,120,0,2,0,0,0.00,2,2,apt,82.80,3923802.00,47388.91
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Circulobienesraices,19.4029252,-99.1680476,90,0,2,0,0,0.00,1,2,apt,99.00,6580413.00,66468.82
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4137406,-99.1610013,11,0,1,0,0,0.00,1,1,apt,60.00,4296668.00,71611.13
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,11,0,1,0,0,0.00,1,1,apt,44.00,3615970.00,82181.14
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030025,-99.1687442,21,2,1,0,0,0.00,1,1,apt,51.00,3270000.00,64117.65
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Mym Consultores Inmobiliarios,19.4030025,-99.1687442,22,2,1,0,0,0.00,1,1,apt,51.00,3270000.00,64117.65
+Bajío315," Roma Sur, Cuauhtémoc", Distrito Federal,Hc Hogar Bienes Raices,19.402932,-99.168069,55,0,2,0,0,0.00,1,2,apt,91.00,6870000.00,75494.51
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,54.00,4321857.00,80034.39
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4052563,-99.1662026,365,5,2,0,0,0.00,2,3,apt,120.00,8700000.00,72500.00
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4239626,-99.1609669,90,0,1,0,0,0.00,1,3,apt,75.00,900901.00,12012.01
+Alejandria," Roma Sur, Monterrey",Nuevo Leon,Century21platinumrealty,25.656675,-100.2944792,120,0,1,0,0,0.00,2,1,apt,41.03,2176522.00,53047.09
+Chiapas," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4127648,-99.1605674,365,4,2,0,0,0.00,1,2,apt,103.00,6500000.00,63106.80
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,3,0,0,4.00,2,2,apt,107.00,7040000.00,65794.39
+Acayucan  48," Roma Sur, Cuauhtémoc", Distrito Federal,Universum Real Estate,19.4043616,-99.1566638,120,0,2,0,0,0.00,1,2,apt,83.00,3890000.00,46867.47
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4155552,-99.1615919,25,5,2,0,0,0.00,2,3,apt,202.00,10513880.00,52048.91
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4108805,-99.1652582,210,5,2,0,0,0.00,2,2,apt,180.00,7780000.00,43222.22
+Calle Querétaro," Roma Norte, Ciudad De México, Cdmx, México, Roma Norte, Cuauhtémoc", Distrito Federal,Mater Bienes Raices,19.4148447,-99.1602414,365,0,1,0,6,0.00,1,1,apt,112.00,6750000.00,60267.86
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4088805,-99.1672582,60,5,2,0,0,0.00,2,2,apt,180.00,7780000.00,43222.22
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4134483,-99.1591243,300,4,2,0,0,0.00,1,2,apt,75.00,4369000.00,58253.33
+Iguala," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4019788,-99.1674782,270,6,2,0,0,0.00,2,3,apt,132.00,6800000.00,51515.15
+Zacatecas," Roma Sur, Cuauhtémoc", Distrito Federal,Quality Habitat,19.4162334,-99.1574852,60,4,2,0,0,0.00,2,2,apt,128.00,9481000.00,74070.31
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4056152,-99.1652218,330,5,2,0,0,0.00,2,2,apt,188.00,8850000.00,47074.47
+Córdoba 229," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,7,0.00,1,2,apt,70.00,5135000.00,73357.14
+Córdoba  229," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,7,0.00,2,2,apt,107.00,9736000.00,90990.65
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Coldwellbankeribanza,19.4085287,-99.1660473,150,0,2,0,0,0.00,1,2,apt,151.00,9344300.00,61882.78
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4188488,-99.1613324,330,5,2,0,0,0.00,2,2,apt,215.00,12900000.00,60000.00
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4168211,-99.1596475,300,4,2,0,0,0.00,2,2,apt,194.00,10050000.00,51804.12
+Guanajuato 000," Roma Norte, Cuauhtémoc", Distrito Federal,Bernadette Carral K ,19.4168211,-99.1596475,730,0,2,1,3,0.00,2,2,apt,143.00,12000000.00,83916.08
+Santa Rosa (ciudad), Tijuana, Baja California,Primerobienesraces,32.5287257,-117.063962,28,4,2,0,0,0.00,2,2,apt,88.00,3100000.00,35227.27
+Roma  Esquina Av. Chapultepec Venta Depto.," Roma Norte, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4202476,-99.1763064,45,4,2,0,0,0.00,2,2,apt,110.00,5800000.00,52727.27
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4058661,-99.1605993,19,4,2,0,0,0.00,2,2,apt,93.00,6643287.00,71433.19
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4115632,-99.1605358,35,4,2,0,0,0.00,1,2,apt,78.00,4643800.00,59535.90
+Tlaxcala100," Roma Sur, Cuauhtémoc", Distrito Federal,Sitio Capital ,19.407535,-99.165698,150,0,2,0,0,0.00,1,2,apt,100.00,4900000.00,49000.00
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4221343,-99.15656,365,4,2,0,0,0.00,1,2,apt,146.00,8400000.00,57534.25
+Queretaro," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4148447,-99.1602414,15,0,2,0,0,0.00,1,2,apt,80.00,6450000.00,80625.00
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4115632,-99.1605358,21,4,2,0,0,0.00,1,2,apt,70.00,4655643.00,66509.19
+Av Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,1,0.00,1,2,apt,85.00,4445000.00,52294.12
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Cattoribr,19.4240896,-99.1598208,60,4,2,0,0,0.00,1,2,apt,123.00,6950000.00,56504.07
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,75.00,4536860.00,60491.47
+Tonalá," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4114483,-99.1611243,60,4,2,0,0,0.00,1,2,apt,75.00,4369000.00,58253.33
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4046152,-99.1662218,60,5,2,0,0,0.00,2,2,apt,188.00,8850000.00,47074.47
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,8,0,1,1,5,0.00,1,1,apt,41.00,3269750.00,79750.00
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4058661,-99.1605993,19,4,2,0,0,0.00,1,2,apt,93.00,5653289.00,60788.05
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,78.00,4714700.00,60444.87
+Tonalá," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4114483,-99.1611243,60,4,2,0,0,0.00,1,2,apt,86.00,4369000.00,50802.33
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,11,0,1,0,0,0.00,1,1,apt,47.00,3715282.00,79048.55
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,3,0,0,0.00,2,2,apt,107.00,7040000.00,65794.39
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,6,0.00,2,2,apt,270.00,14040000.00,52000.00
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,76.00,4578160.00,60238.95
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,75.00,4539220.00,60522.93
+Tonalá," Roma Sur, Cuauhtémoc", Distrito Federal,Mi Casa Propia,19.4114483,-99.1611243,300,4,2,0,0,0.00,1,2,apt,86.00,4369000.00,50802.33
+Tonala," Roma Sur, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4076742,-99.1600444,365,0,2,0,0,0.00,1,2,apt,64.00,4186666.00,65416.66
+Roma Norte, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4117924,-99.1651247,210,3,1,0,0,0.00,1,1,apt,42.00,2890000.00,68809.52
+Chiapas," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4127648,-99.1605674,365,2,1,0,0,0.00,1,1,apt,90.00,5500000.00,61111.11
+Hermosillo," Roma Sur, Cuauhtémoc", Distrito Federal,Remax Prosperity,19.4019,-99.1685,25,0,2,0,0,0.00,1,3,apt,85.00,2900000.00,34117.65
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4098805,-99.1662582,210,5,2,0,0,0.00,2,2,apt,195.00,8700000.00,44615.38
+Tonala," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,1,1,1,0.00,2,2,apt,90.00,3812941.00,42366.01
+Pirineos," Roma, Monterrey",Nuevo Leon,Diga Inmuebles,25.653993,-100.2950482,90,2,1,0,0,0.00,1,1,apt,40.00,2186521.00,54663.03
+Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Espaciosurbanosmx,19.4229547,-99.1652534,210,2,1,0,0,0.00,1,1,apt,37.00,2878798.00,77805.35
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4088805,-99.1672582,60,5,2,0,0,0.00,2,2,apt,195.00,8700000.00,44615.38
+Sinaloa," Roma Sur, Cuauhtémoc", Distrito Federal,Organizacion Serrano,19.4203748,-99.168491,270,2,1,0,0,0.00,1,1,apt,80.00,5500000.00,68750.00
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Quality Habitat,19.4148155,-99.1603133,60,6,3,0,0,0.00,2,3,apt,108.00,7715000.00,71435.19
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Licmarthasbarandalicmar,19.4158401,-99.1596792,150,5,2,0,0,0.00,2,3,apt,90.00,4495000.00,49944.44
+Chilpancingo," Roma Norte, Cuauhtémoc", Distrito Federal,Colokrte ,19.4047228,-99.1693665,59,3,1,0,0,0.00,1,2,apt,53.00,3588410.00,67705.85
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4038108,-99.1624633,60,2,2,1,0,0.00,2,2,Loft,79.00,6105892.00,77289.77
+Snn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,4,0,0,0.00,1,3,apt,284.00,14700000.00,51760.56
+Guanajuato 000," Roma Norte, Cuauhtémoc", Distrito Federal,Bernadette Carral K ,19.4168211,-99.1596475,730,0,2,1,4,0.00,2,2,apt,143.00,12800000.00,89510.49
+Córdoba," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,1,1,6,0.00,1,2,apt,63.00,4774000.00,75777.78
+Insurgentes Sur," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4147924,-99.1621247,60,3,1,0,0,0.00,1,1,apt,42.00,2890000.00,68809.52
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4229547,-99.1652534,210,0,2,0,0,0.00,1,2,apt,34.00,2793102.00,82150.06
+Frontera," Roma Norte, Cuauhtémoc", Distrito Federal,Cbmobikapremium,19.4181531,-99.1652014,150,0,3,0,0,0.00,1,2,apt,165.00,8200000.00,49696.97
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,24,2,2,0,0,0.00,2,2,Loft,89.00,6360510.00,71466.40
+Queretaro," Roma Norte, Cuauhtémoc", Distrito Federal,Casasydepas Com,19.4148447,-99.1602414,25,5,2,0,0,0.00,2,2,apt,108.00,7667000.00,70990.74
+Baja California," Roma Sur, Cuauhtémoc", Distrito Federal,Inmuebles Hahn,19.4061693,-99.1602704,180,4,2,0,0,0.00,2,2,apt,136.00,5150000.00,37867.65
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4134483,-99.1591243,330,4,2,0,0,0.00,1,2,apt,64.00,4369000.00,68265.63
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,4,0,0,0.00,1,3,apt,200.00,12900000.00,64500.00
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4038108,-99.1624633,60,2,2,0,0,0.00,2,2,Loft,81.00,6084392.00,75115.95
+Colima," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4182766,-99.166438,18,5,2,0,0,0.00,2,2,apt,98.00,12146070.00,123939.49
+Roma Sur, Cuauhtémoc, Distrito Federal,Neximo,19.4086981,-99.1669069,31,0,2,0,0,0.00,2,2,apt,117.00,7250000.00,61965.81
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4038108,-99.1624633,60,2,2,0,0,0.00,1,2,Loft,66.00,3999900.00,60604.55
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4038108,-99.1624633,60,2,2,1,0,0.00,1,2,Loft,88.00,5299900.00,60226.14
+Huatabampo," Roma Sur, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4073996,-99.1571281,330,0,2,0,0,0.00,1,2,apt,100.00,5519000.00,55190.00
+Colima," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4182766,-99.166438,33,4,2,0,0,0.00,2,2,apt,101.00,7257350.00,71854.95
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,48,2,2,0,0,0.00,1,2,Loft,78.00,4710600.00,60392.31
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,48,2,2,0,0,0.00,1,2,Loft,75.00,4714700.00,62862.67
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Cattoribr,19.4240896,-99.1598208,60,4,2,0,0,0.00,1,2,apt,86.00,5340000.00,62093.02
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,51.00,4976000.00,97568.63
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4038108,-99.1624633,60,2,2,0,0,0.00,1,2,Loft,67.00,4049900.00,60446.27
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4038108,-99.1624633,60,2,2,0,0,0.00,1,2,Loft,68.00,4149900.00,61027.94
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,12,0,3,0,0,0.00,1,2,apt,122.00,8400000.00,68852.46
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,48,2,2,0,0,0.00,2,2,Loft,88.00,6380520.00,72505.91
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,48,2,2,0,0,0.00,2,2,Loft,100.00,8026360.00,80263.60
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,48,2,2,0,0,0.00,1,2,Loft,76.00,6661750.00,87654.61
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4038108,-99.1624633,60,2,2,0,0,0.00,1,2,Loft,67.00,4805142.00,71718.54
+Tonalá," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4114483,-99.1611243,60,4,2,0,0,0.00,1,2,apt,64.00,4369000.00,68265.63
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4030527,-99.1678785,24,3,2,0,0,0.00,2,3,Loft,99.00,10200000.00,103030.30
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4030527,-99.1678785,24,3,2,0,0,0.00,2,3,Loft,111.00,9880000.00,89009.01
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4030527,-99.1678785,24,3,2,0,0,0.00,2,3,Loft,113.00,11050000.00,97787.61
+Calle Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4030527,-99.1678785,24,3,2,0,0,0.00,2,3,Loft,111.00,9670000.00,87117.12
+Roma Sur, Cuauhtémoc, Distrito Federal,Neximo,19.4029964,-99.1683906,31,0,1,0,0,0.00,1,1,apt,66.00,3771278.00,57140.58
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,48,2,2,0,0,0.00,1,2,Loft,93.00,6306550.00,67812.37
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115152,-99.1623461,48,2,2,0,0,0.00,2,2,Loft,86.00,5845980.00,67976.51
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4194601,-99.1581372,365,5,2,0,0,0.00,2,2,apt,204.00,17330000.00,84950.98
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4217314,-99.160594,300,4,1,0,0,0.00,1,3,apt,156.00,5900000.00,37820.51
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4068805,-99.1692582,330,5,2,0,0,0.00,2,2,apt,198.00,8952615.00,45215.23
+Roma Norte, Cuauhtémoc, Distrito Federal,Expmexico Realtors,19.4195256,-99.162549,120,0,3,0,0,0.00,1,3,apt,284.00,12900000.00,45422.54
+Roma Norte, Cuauhtémoc, Distrito Federal,Airnetwork Asesores Inmob,19.4195256,-99.162549,120,3,1,0,0,0.00,1,1,apt,69.00,5000000.00,72463.77
+Roma Sur, Cuauhtémoc, Distrito Federal,Sata7784633,19.4093009,-99.1574399,60,4,2,0,0,0.00,2,2,apt,185.00,6976349.00,37709.99
+SN,Cuauhtemoc, Distrito Federal,Rematadascom,19.4168211,-99.1596475,90,0,2,0,0,0.00,1,2,apt,83.00,1200000.00,14457.83
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Bernadette Carral K ,19.4168211,-99.1596475,120,5,2,0,0,0.00,2,2,apt,187.00,12000000.00,64171.12
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4026152,-99.1682218,210,5,2,0,0,0.00,2,2,apt,134.00,7650000.00,57089.55
+Medellin," Roma Norte, Cuauhtémoc", Distrito Federal,Inmuebles Hahn,19.4112559,-99.1642982,180,4,2,0,0,0.00,1,2,apt,68.00,2250000.00,33088.24
+Durango," Roma Norte, Cuauhtémoc", Distrito Federal,Remax Plus,19.4202688,-99.1642694,365,0,2,0,0,0.00,1,2,apt,100.00,4930000.00,49300.00
+Durando193," Roma Norte, Cuauhtémoc", Distrito Federal,Hc Hogar Bienes Raices,19.420087,-99.167044,55,0,1,0,0,0.00,1,1,apt,36.00,3848548.00,106904.11
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4046152,-99.1662218,60,5,2,0,0,0.00,2,2,apt,134.00,7650000.00,57089.55
+Roma Sur, Cuauhtémoc, Distrito Federal,Sata7784633,19.4083009,-99.1584399,365,4,2,0,0,0.00,2,2,apt,93.00,5653287.00,60788.03
+Roma Nortesn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.417364,-99.159453,60,0,4,0,0,0.00,1,3,apt,284.00,12900000.00,45422.54
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4194601,-99.1581372,365,5,2,0,0,0.00,2,2,apt,149.00,12660000.00,84966.44
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4194601,-99.1581372,365,5,2,0,0,0.00,2,2,apt,185.00,14345000.00,77540.54
+Bajio," Roma Sur, Cuauhtémoc", Distrito Federal,Luxence,19.4037937,-99.1631623,90,4,2,0,0,0.00,1,2,apt,111.00,6586413.00,59337.05
+Roma Sur, Cuauhtémoc, Distrito Federal,Sata7784633,19.4088661,-99.1575993,120,6,3,0,0,0.00,2,3,apt,140.00,8706563.00,62189.74
+Roma Sur, Cuauhtémoc, Distrito Federal,Espaciosurbanosmx,19.4058504,-99.1621697,270,4,2,0,0,0.00,2,2,apt,103.00,6296000.00,61126.21
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,70.00,4482780.00,64039.71
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,3,0,0,0.00,1,3,apt,86.00,4944054.00,57489.00
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,37.00,3848548.00,104014.81
+Torreón," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4056186,-99.1618533,60,3,2,1,0,0.00,2,3,Loft,115.00,8229770.00,71563.22
+Av," Conocida, Roma, Monterrey",Nuevo Leon,Coldwellbanker Marimar,25.6549213,-100.2927616,120,0,3,0,0,0.00,2,3,apt,200.00,6900000.00,34500.00
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4054217,-99.1602247,150,4,2,0,0,0.00,2,2,apt,185.00,6976349.00,37709.99
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Airnetwork Asesores Inmob,19.4052563,-99.1662026,365,5,2,0,0,0.00,2,2,apt,106.00,7040000.00,66415.09
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,43.00,4300000.00,100000.00
+Torreón," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4056186,-99.1618533,60,3,2,1,0,0.00,2,3,Loft,134.00,9326512.00,69600.84
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4088805,-99.1672582,60,5,2,0,0,0.00,2,2,apt,198.00,8952615.00,45215.23
+Roma Sur, Cuauhtémoc, Distrito Federal,Sata7784633,19.4053009,-99.1614399,120,4,2,0,0,0.00,2,2,apt,179.00,6643287.00,37113.34
+Av. Insurgentes Sur," Roma Norte, Cuauhtémoc", Distrito Federal,Luxence,19.4218675,-99.1636483,19,2,1,0,0,0.00,1,1,apt,49.00,4062500.00,82908.16
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,99.00,6296000.00,63595.96
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,36.00,4421000.00,122805.56
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,83.00,5363485.00,64620.30
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,23,0,0,0.00,1,2,apt,91.00,7874000.00,86527.47
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,43.00,4472000.00,104000.00
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,4,0,0,0.00,1,3,apt,121.00,8725800.00,72114.05
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,4,0,0,0.00,1,3,apt,163.00,8725000.00,53527.61
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,140.00,7792000.00,55657.14
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,142.00,7676000.00,54056.34
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4054217,-99.1602247,150,6,3,0,0,0.00,2,3,apt,140.00,8706563.00,62189.74
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4159657,-99.163205,35,7,3,0,0,0.00,2,3,apt,157.00,10100000.00,64331.21
+Av Chapultepec 322," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,2,1,10,0.00,1,2,apt,85.00,4695000.00,55235.29
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,36.00,4442000.00,123388.89
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,91.00,9689000.00,106472.53
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,4,0,0,0.00,1,3,apt,135.00,8434800.00,62480.00
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,109.00,7981000.00,73220.18
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,51.00,5041000.00,98843.14
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Safe Rent,19.4119107,-99.159609,240,2,1,0,0,0.00,1,1,apt,40.00,1800000.00,45000.00
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.3679307,-99.1741894,90,0,2,0,0,0.00,1,2,apt,75.00,840145.00,11201.93
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4180537,-99.1585252,90,0,2,0,0,0.00,1,3,apt,70.00,902000.00,12885.71
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.424552,-99.1583315,90,0,2,0,0,0.00,1,2,apt,70.00,839652.00,11995.03
+Hamburgo," Roma Norte, Cuauhtémoc", Distrito Federal,Barragan Br,19.4293459,-99.1585585,35,2,1,0,0,0.00,1,1,apt,50.00,2400000.00,48000.00
+Puebla 258," Roma Norte, Cuauhtémoc", Distrito Federal,Blaxell 2,19.4213628,-99.1679593,300,0,3,0,4,0.00,1,3,apt,98.00,4703000.00,47989.80
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4030089,-99.1686461,365,4,2,0,0,0.00,1,2,apt,104.00,5350000.00,51442.31
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4030089,-99.1686461,365,4,2,0,0,0.00,1,2,apt,90.00,4850000.00,53888.89
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Veronica Porraz,19.4125049,-99.1560507,270,2,1,0,0,0.00,1,1,apt,43.00,3429250.00,79750.00
+Puebla 258," Roma Norte, Cuauhtémoc", Distrito Federal,Blaxell 2,19.4213628,-99.1679593,300,0,3,0,4,0.00,1,3,apt,103.00,4943000.00,47990.29
+Tlacotalpan127," Roma Sur, Cuauhtémoc", Distrito Federal,Hc Hogar Bienes Raices,19.402662,-99.16593,55,0,1,0,0,0.00,1,3,apt,62.00,6690000.00,107903.23
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4168211,-99.1596475,300,4,2,0,0,0.00,2,2,apt,104.00,9350000.00,89903.85
+Roma, Monterrey,Nuevo Leon,Via Inmuebles,25.654287,-100.297745,16,3,1,0,0,0.00,1,1,apt,57.00,3500000.00,61403.51
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,2,apt,193.00,14382000.00,74518.13
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4112713,-99.1633655,90,0,1,0,0,0.00,1,2,apt,182.00,2350000.00,12912.09
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4168211,-99.1596475,120,7,3,0,0,0.00,2,3,apt,195.00,10750000.00,55128.21
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Sspropiedades,19.4054217,-99.1602247,210,0,2,0,0,0.00,1,2,apt,93.00,5653257.00,60787.71
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Espaciosurbanosmx,19.4168211,-99.1596475,270,4,2,0,0,0.00,2,2,apt,92.00,5998135.00,65197.12
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Remax Plus,19.4157,-99.1649,365,0,3,1,5,0.00,2,3,apt,195.00,9840000.00,50461.54
+Chilpancingo," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4030089,-99.1686461,365,4,2,0,0,0.00,1,2,apt,176.00,9950000.00,56534.09
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Circulobienesraices,19.4119974,-99.1590706,90,0,2,0,5,0.00,1,2,apt,64.00,4070000.00,63593.75
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4124711,-99.1562223,365,4,2,0,0,0.00,1,2,apt,76.00,4210000.00,55394.74
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,11,0,2,0,0,0.00,1,2,apt,126.00,6996018.00,55523.95
+Zacatecas," Roma Sur, Cuauhtémoc", Distrito Federal,Heyserenta Com,19.4170429,-99.1546255,60,3,1,0,0,0.00,1,1,apt,64.00,4100000.00,64062.50
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,40.00,4670000.00,116750.00
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Circulobienesraices,19.4119974,-99.1590706,90,0,1,0,5,0.00,1,1,apt,41.00,3150850.00,76850.00
+Colima 49 Interior 301," Roma Sur, Cuauhtémoc", Distrito Federal,Century21 Tega,19.4208852,-99.1557502,120,0,2,0,0,0.00,2,2,apt,130.00,9333000.00,71792.31
+Roma Sur, Cuauhtémoc, Distrito Federal,Inmobiliaria Sp,19.3605334,-99.2267067,150,5,2,0,0,0.00,2,3,apt,113.00,9000000.00,79646.02
+Roma Privada," Roma Privada, Monterrey",Nuevo Leon,Horacio Zamarripa Rivas,25.6403657,-100.2895546,240,5,2,0,0,0.00,1,3,apt,113.00,4830838.00,42750.78
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4168211,-99.1596475,300,4,2,0,0,0.00,2,2,apt,204.00,9590000.00,47009.80
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4123937,-99.1562314,24,2,2,0,0,0.00,1,2,Loft,66.00,6853000.00,103833.33
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,92.00,5452850.00,59270.11
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,136.00,12901458.00,94863.66
+Roma, Monterrey,Nuevo Leon,Grand Metrópoli,25.6552625,-100.2968762,150,5,2,0,0,0.00,1,3,apt,140.00,4000000.00,28571.43
+Roma, Monterrey,Nuevo Leon,Alur Bienes Raíces,25.6542625,-100.2978762,365,6,2,0,0,0.00,2,3,apt,123.00,5327908.00,43316.33
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Luxence,19.4123937,-99.1562314,19,3,1,0,0,0.00,1,2,apt,78.00,4631000.00,59371.79
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4123937,-99.1562314,24,2,2,0,0,0.00,1,2,Loft,76.00,5060000.00,66578.95
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4123937,-99.1562314,24,1,1,0,0,0.00,1,1,Loft,43.00,3429250.00,79750.00
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Morris Lan,19.415896,-99.1593996,46,6,3,0,0,0.00,2,3,apt,162.00,9950000.00,61419.75
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115652,-99.1605521,48,2,2,0,0,0.00,2,2,Loft,89.00,6330120.00,71124.94
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115652,-99.1605521,48,2,2,0,0,0.00,2,2,Loft,83.00,5363485.00,64620.30
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,140.00,11675527.00,83396.62
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,4,0,0,0.00,1,3,apt,150.00,10750000.00,71666.67
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,92.00,5845980.00,63543.26
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Circulobienesraices,19.4119974,-99.1590706,90,0,2,0,5,0.00,1,2,apt,76.00,4980000.00,65526.32
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Remax Plus,19.4157,-99.1649,365,0,2,1,5,0.00,2,2,apt,194.00,9350000.00,48195.88
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Inmobiliaria Zona 04,19.4123937,-99.1562314,8,2,1,0,0,0.00,1,1,apt,43.00,3635005.00,84535.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,12,0,3,0,0,4.00,2,2,apt,194.00,9350000.00,48195.88
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4123937,-99.1562314,24,2,2,0,0,0.00,1,2,Loft,63.00,6600000.00,104761.90
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4123937,-99.1562314,24,2,2,0,0,0.00,1,2,Loft,65.00,4378000.00,67353.85
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4123937,-99.1562314,24,2,2,0,0,0.00,1,2,Loft,59.00,4389000.00,74389.83
+Hutabampo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4071173,-99.1572477,35,4,2,0,0,0.00,2,2,apt,98.00,6079500.00,62035.71
+Hutabampo," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4071173,-99.1572477,35,4,2,0,0,0.00,2,2,apt,97.00,6384000.00,65814.43
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115652,-99.1605521,48,2,2,0,0,0.00,2,2,Loft,89.00,6792390.00,76318.99
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115652,-99.1605521,48,2,2,0,0,0.00,2,2,Loft,84.00,6218895.00,74034.46
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115652,-99.1605521,48,2,2,0,0,0.00,2,2,Loft,96.00,7591980.00,79083.13
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115652,-99.1605521,48,2,2,0,0,0.00,1,2,Loft,71.00,4270200.00,60143.66
+Coahuila," Roma Sur, Cuauhtémoc", Distrito Federal,Houm,19.4115652,-99.1605521,48,2,2,0,0,0.00,1,2,Loft,71.00,4303135.00,60607.54
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,2,apt,139.00,11502061.00,82748.64
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,87.00,4783584.00,54983.72
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,122.00,7639585.00,62619.55
+San Luis Potosí  113," Roma Norte, Cuauhtémoc", Distrito Federal,Deborahlavat,19.4141843,-99.1597255,240,0,3,0,5,4000.00,2,2,apt,158.56,11582200.00,73046.17
+Puebla 258," Roma Norte, Cuauhtémoc", Distrito Federal,Blaxell 2,19.4213628,-99.1679593,300,0,3,0,4,0.00,1,3,apt,103.00,4943000.00,47990.29
+Roma Norte 0," Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,365,0,1,0,6,0.00,1,1,apt,57.00,5800000.00,101754.39
+Roma Norte 0," Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,240,0,2,0,0,0.00,2,2,apt,117.00,7855960.00,67144.96
+Salamanca  11," Roma Norte, Cuauhtémoc", Distrito Federal,Profesionales Inmobiliariosmx,19.4214358,-99.1704172,330,0,1,0,10,1500.00,1,1,apt,42.00,3273000.00,77928.57
+San Luis Potosi 113," Roma Norte, Cuauhtémoc", Distrito Federal,Deborahlavat,19.4141843,-99.1597255,240,0,2,0,6,2900.00,1,2,apt,100.00,6879300.00,68793.00
+San Luis Potosí  113," Roma Norte, Cuauhtémoc", Distrito Federal,Deborahlavat,19.4141843,-99.1597255,240,0,2,1,5,3900.00,2,2,apt,152.39,10174465.00,66765.96
+Guanajuato  240," Roma Norte, Cuauhtémoc", Distrito Federal,Mingobienesraices,19.4156973,-99.1649402,365,0,2,1,5,0.00,2,3,apt,204.00,9590000.00,47009.80
+Nayarit 0," Roma Sur, Cuauhtémoc", Distrito Federal,Highend Mexico,19.4098231,-99.162138,120,0,2,0,2,0.00,1,2,apt,78.00,4700000.00,60256.41
+Roma Norte 0," Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,300,0,1,1,6,0.00,1,2,apt,76.42,4774000.00,62470.56
+Roma Sur 0," Roma Sur, Cuauhtémoc", Distrito Federal,Pireal Estate,19.405299,-99.1649891,270,0,2,0,3,0.00,2,2,apt,100.00,11720000.00,117200.00
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Urp Propiedades,19.4167969,-99.1555784,300,4,2,0,0,0.00,1,2,apt,95.00,4066000.00,42800.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4134711,-99.1552223,300,4,2,0,0,0.00,1,2,apt,43.00,2870000.00,66744.19
+Roma Norte, Cuauhtémoc, Distrito Federal,Qia Inmobiliaria,19.436631,-99.15081,330,8,4,0,0,0.00,2,3,apt,193.00,14382000.00,74518.13
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.424552,-99.1583315,90,0,2,0,0,0.00,1,2,apt,70.00,839652.00,11995.03
+Medellin340," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4044416,-99.1626881,300,0,2,0,0,0.00,1,2,apt,150.00,920000.00,6133.33
+Monterrey," Roma Norte, Cuauhtémoc", Distrito Federal,Bernadette Carral K ,19.412346,-99.1627985,120,2,1,0,0,0.00,1,1,apt,72.00,5200000.00,72222.22
+Av. Insurgentes Sur," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4218675,-99.1636483,365,3,1,0,0,0.00,1,1,apt,38.00,3135000.00,82500.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Luxuryhabitatmx,19.4110273,-99.160073,90,6,2,0,0,0.00,1,3,apt,122.00,7040000.00,57704.92
+Frontera 137," Roma Norte, Cuauhtémoc", Distrito Federal,Century21 Movisa,19.418011,-99.1557064,270,0,2,0,0,0.00,1,2,apt,103.00,6732700.00,65366.02
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4195256,-99.162549,300,4,2,0,0,0.00,1,2,apt,152.00,6835000.00,44967.11
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Gruposdiazyasociados,19.4084453,-99.1664688,210,0,2,0,2,0.00,1,2,apt,145.00,8558032.00,59020.91
+Av. Insurgentes Sur," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4218675,-99.1636483,365,3,1,0,0,0.00,1,1,apt,49.00,4102500.00,83724.49
+Roma Sur 0," Roma Sur, Cuauhtémoc", Distrito Federal,Pireal Estate,19.405299,-99.1649891,270,0,3,0,3,0.00,2,3,apt,92.00,11148000.00,121173.91
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4022256,-99.165227,33,5,2,0,0,0.00,1,2,apt,143.00,11317200.00,79141.26
+Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.404209,-99.1610301,240,5,2,0,0,0.00,2,3,apt,111.00,6744923.00,60765.07
+Tabasco," Roma Norte, Cuauhtémoc", Distrito Federal,Cravioto Inmobiliaria,19.4188488,-99.1613324,240,0,2,0,0,0.00,1,2,apt,153.00,12660000.00,82745.10
+Alejandria," Roma, Monterrey",Nuevo Leon,Century21 Kamys,25.6684802,-100.2051607,120,0,2,0,0,0.00,1,2,apt,40.00,2170000.00,54250.00
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Coldwell Banker Vive,19.4160311,-99.1632189,180,0,3,0,0,0.00,2,3,apt,150.00,11200000.00,74666.67
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4154711,-99.1532223,300,4,2,0,0,0.00,1,2,apt,63.00,3820000.00,60634.92
+Insurgentes," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4217349,-99.1637208,39,0,1,1,12,0.00,1,1,apt,38.00,3155000.00,83026.32
+Puebla," Roma Norte, Cuauhtémoc", Distrito Federal,Licmarthasbarandalicmar,19.4206466,-99.170547,150,6,2,0,0,0.00,2,2,apt,108.00,9010885.00,83434.12
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4134711,-99.1552223,300,4,2,0,0,0.00,1,2,apt,43.00,3180000.00,73953.49
+Querétaro," Roma Sur, Cuauhtémoc", Distrito Federal,Cattoribr,19.4146914,-99.1606225,330,5,2,0,0,0.00,2,3,apt,109.00,7932730.00,72777.34
+Tonalá," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4130341,-99.1614773,365,5,2,0,0,0.00,2,2,apt,100.00,11720767.00,117207.67
+Departamentos En Pre Venta Roma Monterrey Nl," Roma, Monterrey",Nuevo Leon,Mundo Raiz,25.6542625,-100.2978762,26,1,1,0,0,0.00,1,1,apt,57.00,3500000.00,61403.51
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,3,apt,117.00,6388236.00,54600.31
+Zacatecas," Roma Norte, Cuauhtémoc", Distrito Federal,Coldwellbankercity,19.4181531,-99.1652014,120,0,2,0,0,0.00,2,3,apt,140.00,10500000.00,75000.00
+Querétaro," Roma Sur, Cuauhtémoc", Distrito Federal,Cattoribr,19.4146914,-99.1606225,330,5,2,0,0,0.00,2,3,apt,114.00,8165300.00,71625.44
+Querétaro," Roma Sur, Cuauhtémoc", Distrito Federal,Cattoribr,19.4146914,-99.1606225,330,5,2,0,0,0.00,2,3,apt,191.00,13471140.00,70529.53
+Huatabampo," Roma Sur, Cuauhtémoc", Distrito Federal,Remax Servicios Inmobiliarios,19.4073996,-99.1571281,330,0,2,1,3,0.00,2,3,apt,127.00,6958000.00,54787.40
+Roma, Monterrey,Nuevo Leon,Alur Bienes Raíces,25.6542625,-100.2978762,365,5,2,0,0,0.00,1,3,apt,112.00,4745388.00,42369.54
+Roma Norte 0," Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,365,0,3,0,0,0.00,2,3,apt,195.00,13500000.00,69230.77
+SN,Cuauhtemoc, Distrito Federal,Rematadascom,19.4116332,-99.1610265,60,0,2,0,0,0.00,1,2,apt,100.00,1759000.00,17590.00
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,41.00,3269750.00,79750.00
+Coauhuila," Roma Norte, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4124711,-99.1562223,90,4,2,0,0,0.00,1,2,apt,132.00,6853000.00,51916.67
+Roma Sur," Roma, Monterrey",Nuevo Leon,Coldwellbanker Marimar,25.6461662,-100.2985775,90,0,1,0,0,0.00,1,2,apt,95.00,5300000.00,55789.47
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4356338,-99.1495107,90,0,1,0,0,0.00,2,3,apt,85.00,1605400.00,18887.06
+Diagonal," Roma Sur, Monterrey",Nuevo Leon,Coldwellbanker Marimar,25.6568618,-100.2951617,120,0,1,0,0,0.00,1,1,apt,57.00,3500000.00,61403.51
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4104711,-99.1582223,300,4,2,0,0,0.00,1,2,apt,65.00,3940000.00,60615.38
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4144711,-99.1542223,300,4,2,0,0,0.00,1,2,apt,76.00,4600000.00,60526.32
+Roma Norte, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4134711,-99.1552223,300,4,2,0,0,0.00,1,2,apt,132.00,6230000.00,47196.97
+Venta De Departamento En Colonia Roma," Roma Sur, Cuauhtémoc", Distrito Federal,Skgasesoresinmobiliarios,19.405973,-99.1663847,365,0,2,0,0,0.00,1,2,apt,96.00,4720000.00,49166.67
+Tonalá," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4130341,-99.1614773,365,5,2,0,0,0.00,2,2,apt,193.00,14148523.00,73308.41
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4187185,-99.1548729,9,0,2,0,0,0.00,1,2,apt,80.00,839652.00,10495.65
+Colima," Roma Norte, Cuauhtémoc", Distrito Federal,Sara Goldhaber,19.4189983,-99.1640265,60,4,2,0,0,0.00,2,2,apt,111.00,7250000.00,65315.32
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,54.00,4535000.00,83981.48
+Tonalá," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4130341,-99.1614773,365,5,2,0,0,0.00,2,2,apt,112.00,13333717.00,119051.04
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4195256,-99.162549,12,0,1,0,0,0.00,1,1,apt,43.00,3370000.00,78372.09
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4159657,-99.163205,35,7,3,0,0,0.00,2,3,apt,184.00,11200000.00,60869.57
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,3,apt,118.00,6641481.00,56283.74
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,69.00,5692500.00,82500.00
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,62.00,4279000.00,69016.13
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,66.00,6853000.00,103833.33
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,76.00,5060000.00,66578.95
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,63.00,4202000.00,66698.41
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,43.00,3429250.00,79750.00
+Guanajuato," Roma Norte, Cuauhtémoc", Distrito Federal,Coldwell Banker Vive,19.4163583,-99.1633543,180,0,3,0,0,0.00,2,3,apt,153.00,10100000.00,66013.07
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,2,0,0,0.00,2,3,apt,157.00,9880000.00,62929.94
+Roma Sur, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.405299,-99.1649891,12,0,2,0,0,0.00,2,3,apt,111.00,6426000.00,57891.89
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,1,apt,38.00,4122500.00,108486.84
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,63.00,4246000.00,67396.83
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,3,0,0,0.00,1,3,apt,117.00,6594096.00,56359.79
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,4,0,0,0.00,1,3,apt,117.00,8856256.00,75694.50
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,1,0,0,0.00,1,2,apt,59.00,4290000.00,72711.86
+Bajío," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.404209,-99.1610301,300,5,2,0,0,0.00,2,3,apt,222.00,10429375.00,46979.17
+Chiapas," Roma Norte, Cuauhtémoc", Distrito Federal,Urp Propiedades,19.4120407,-99.1634431,270,7,3,0,0,0.00,1,3,apt,154.00,14000000.00,90909.09
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4185174,-99.1613449,90,0,2,0,0,0.00,1,3,apt,137.00,3300000.00,24087.59
+Coahuila159," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Raiz Inmobiliario,19.411271,-99.163366,240,0,2,0,0,0.00,1,2,apt,90.00,1800000.00,20000.00
+Pomona45," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Raiz Inmobiliario,19.421126,-99.162892,240,0,2,0,0,0.00,1,2,apt,75.00,989670.00,13195.60
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4184178,-99.1707028,90,0,2,0,0,0.00,1,2,apt,117.00,2300000.00,19658.12
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4138234,-99.1655017,365,6,3,0,0,0.00,1,3,apt,135.00,9750000.00,72222.22
+Roma Sn," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.418153,-99.1652014,39,0,1,1,1,0.00,1,2,apt,85.00,4200000.00,49411.76
+Cordoba48," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Raiz Inmobiliario,19.422147,-99.159086,240,0,2,0,0,0.00,1,3,apt,100.00,1750667.00,17506.67
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Nouhouse,19.421917,-99.1693212,90,0,1,1,1,0.00,1,1,apt,37.13,2792170.00,75199.84
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4112706,-99.1633664,29,0,2,0,0,0.00,1,2,apt,90.00,1105470.00,12283.00
+Concepción Beistegui," Del Valle Centro, Benito Juárez", Distrito Federal,Luxence,19.3889011,-99.1638138,90,7,3,0,0,0.00,2,3,apt,170.00,13354550.00,78556.18
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4175758,-99.1545772,90,0,2,0,0,0.00,1,2,apt,90.00,2840000.00,31555.56
+Roma Sur 0," Roma Sur, Cuauhtémoc", Distrito Federal,Pireal Estate,19.405299,-99.1649891,150,0,2,0,0,0.00,2,2,apt,140.00,5653287.00,40380.62
+Medellín210," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Raiz Inmobiliario,19.411479,-99.164319,240,0,2,0,0,0.00,1,2,apt,68.00,1300259.00,19121.46
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.4156986,-99.1581424,31,0,1,0,0,0.00,1,1,apt,56.00,3840000.00,68571.43
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4193691,-99.1743199,90,0,2,0,0,0.00,2,3,apt,99.00,5200000.00,52525.25
+Hermosillo9," Roma Norte, Cuauhtémoc", Distrito Federal,Grupo Raiz Inmobiliario,19.401785,-99.168802,240,0,1,0,0,0.00,1,2,apt,70.00,1151648.00,16452.11
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4112706,-99.1633664,90,0,2,0,0,0.00,1,2,apt,90.00,2840000.00,31555.56
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Nouhouse,19.4218158,-99.1693856,90,0,1,1,1,0.00,1,1,apt,39.65,3070859.00,77449.16
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4112706,-99.1633664,36,0,2,0,0,0.00,1,2,apt,90.00,1105469.00,12282.99
+Av. Chapultepec246," Roma Norte, Cuauhtémoc", Distrito Federal,Círculo Inmobiliario,19.423963,-99.160967,41,0,2,0,0,0.00,1,3,apt,65.00,1277348.00,19651.51
+Roma, Monterrey,Nuevo Leon,Melo Bueno Bienes Raíces,25.6542625,-100.2978762,300,7,3,0,0,0.00,3,3,apt,196.00,5700000.00,29081.63
+Av. Chapultepec," Roma Norte, Cuauhtémoc", Distrito Federal,Nouhouse,19.4218968,-99.1693856,90,0,1,1,1,0.00,1,2,apt,70.29,4804764.00,68356.30
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4114263,-99.1643063,90,0,1,0,0,0.00,1,2,apt,56.00,2700000.00,48214.29
+Aguascalientes 9," Roma Sur, Cuauhtémoc", Distrito Federal,Profesionales Inmobiliariosmx,19.4096166,-99.1609976,365,0,2,0,2,1.00,1,2,apt,120.00,8217000.00,68475.00
+Roma, Monterrey,Nuevo Leon,Alejandro Torres Mange,25.6542625,-100.2978762,330,4,2,0,0,0.00,2,2,apt,101.00,3550000.00,35148.51
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.4159702,-99.1576866,31,0,1,0,0,0.00,1,2,apt,74.00,4812500.00,65033.78
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.415475,-99.1589334,31,0,1,0,0,0.00,1,1,apt,64.00,4250000.00,66406.25
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4112706,-99.1633664,34,0,2,0,0,0.00,1,2,apt,90.00,1105469.00,12282.99
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,5,2,0,0,0.00,1,3,apt,98.00,4455575.00,45465.05
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,2,apt,141.00,12839444.00,91059.89
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,213.00,8250000.00,38732.39
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,5,2,0,0,0.00,1,3,apt,97.00,4624150.00,47671.65
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,158.00,13322205.00,84317.75
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,168.00,10592361.00,63049.77
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,161.00,10048500.00,62413.04
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,2,0,0,0.00,1,2,apt,134.00,12203137.00,91068.19
+Avenida Insurgentes Sur," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4218675,-99.1636483,24,1,1,0,0,0.00,1,1,Loft,63.00,5197500.00,82500.00
+Avenida Insurgentes Sur," Roma Norte, Cuauhtémoc", Distrito Federal,Houm,19.4218675,-99.1636483,24,1,1,0,0,0.00,1,1,Loft,56.00,4496000.00,80285.71
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,4,2,0,0,0.00,1,2,apt,96.00,4157440.00,43306.67
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,5,2,0,0,0.00,1,3,apt,101.00,4548300.00,45032.67
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,5,2,0,0,0.00,1,3,apt,101.00,4548304.00,45032.71
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,5,2,0,0,0.00,1,3,apt,101.00,4568300.00,45230.69
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,4,2,0,0,0.00,1,2,apt,91.00,4061500.00,44631.87
+Viaducto Miguel  Aleman," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4030731,-99.159292,35,5,2,0,0,0.00,1,3,apt,98.00,4415575.00,45056.89
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,130.00,9305538.00,71581.06
+Snsn," Roma Norte, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.419526,-99.162549,60,0,3,0,0,0.00,1,3,apt,153.00,10249470.00,66990.00
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4054217,-99.1602247,150,4,2,0,0,0.00,2,2,apt,93.00,5653287.00,60788.03
+Roma, Monterrey,Nuevo Leon,Gr Inmuebles,25.656862,-100.295856,240,0,2,0,0,0.00,1,2,apt,95.00,5580000.00,58736.84
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.402662,-99.1659298,365,4,2,0,0,0.00,1,2,apt,91.00,4900000.00,53846.15
+Roma Norte 0," Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,300,0,1,1,3,0.00,1,1,apt,65.00,4100750.00,63088.46
+Valladolid34," Roma Norte, Cuauhtémoc", Distrito Federal,Glb Patrimonial,19.42105,-99.168266,60,0,2,0,0,0.00,1,3,apt,113.00,958789.00,8484.86
+Coahuila159," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4112713,-99.1633655,300,0,2,0,0,0.00,1,2,apt,90.00,1800000.00,20000.00
+Coahuila 28," Roma Norte, Cuauhtémoc", Distrito Federal,Century21 Reward,19.4123937,-99.1562314,270,0,1,0,0,0.00,1,1,apt,41.00,2972500.00,72500.00
+Roma Norte, Cuauhtémoc, Distrito Federal,Airnetwork Asesores Inmob,19.4195256,-99.162549,240,2,1,0,0,0.00,1,1,apt,39.00,3135000.00,80384.62
+Querétaro238," Roma Norte, Cuauhtémoc", Distrito Federal,Glb Patrimonial,19.41368,-99.1654,60,0,1,0,0,0.00,1,3,apt,89.00,1394590.00,15669.55
+Coahuila159," Roma Norte, Cuauhtémoc", Distrito Federal,Glb Patrimonial,19.411271,-99.163366,12,0,2,0,0,0.00,1,3,apt,90.00,839240.00,9324.89
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Morakalli Inmobiliaria,19.4054217,-99.1602247,60,4,2,0,0,0.00,2,2,apt,185.00,6976349.00,37709.99
+Cuauhtemoc, Cuauhtémoc, Distrito Federal,Consultores Patrimoniales,19.4114263,-99.1643063,90,0,2,0,0,0.00,1,3,apt,85.00,3155000.00,37117.65
+Roma Sur," Roma Sur, Cuauhtémoc", Distrito Federal,Nik Bienesraices,19.405299,-99.1649891,120,4,2,0,0,0.00,2,2,apt,150.00,10400000.00,69333.33
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4112706,-99.1633664,12,0,2,0,0,0.00,1,2,apt,90.00,1105470.00,12283.00
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Organizacion Serrano,19.4148447,-99.1602414,270,6,3,0,0,0.00,2,3,apt,160.00,8781000.00,54881.25
+Roma Sur, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4059284,-99.16506,300,5,2,0,0,0.00,2,3,apt,111.00,6870000.00,61891.89
+Roma Sur, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4059284,-99.16506,300,5,2,0,0,0.00,2,3,apt,222.00,11550000.00,52027.03
+Pomona45," Roma Norte, Cuauhtémoc", Distrito Federal,Círculo Inmobiliario,19.421126,-99.162892,41,0,2,0,0,0.00,1,2,apt,75.00,989670.00,13195.60
+Cordoba48," Roma Norte, Cuauhtémoc", Distrito Federal,Círculo Inmobiliario,19.422147,-99.159086,41,0,2,0,0,0.00,1,3,apt,100.00,1750667.00,17506.67
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4356338,-99.1495107,90,0,2,0,0,0.00,1,2,apt,65.00,2120000.00,32615.38
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,12,0,2,0,0,0.00,1,2,apt,167.00,8250004.00,49401.22
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,12,0,2,0,0,0.00,2,2,apt,90.00,5950004.00,66111.16
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.4132856,-99.1655449,31,0,2,0,0,0.00,1,2,apt,89.00,5775000.00,64887.64
+Roma Norte, Cuauhtémoc, Distrito Federal,Neximo,19.4160023,-99.1651024,31,0,2,0,0,0.00,2,2,apt,194.00,9350000.00,48195.88
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,286.00,9990000.00,34930.07
+Colonia Roma," Roma, Monterrey",Nuevo Leon,Realtyworld Rokali,25.6536914,-100.2981178,60,0,2,0,10,0.00,1,4,apt,95.00,5133800.00,54040.00
+Iguala," Roma Sur, Cuauhtémoc", Distrito Federal,Organizacion Serrano,19.4019788,-99.1674782,270,6,3,0,0,0.00,3,3,apt,140.00,10105450.00,72181.79
+Roma Sur, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4059284,-99.16506,300,5,2,0,0,0.00,2,3,apt,112.00,7000000.00,62500.00
+Medellín210," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4114785,-99.1643187,300,0,2,0,0,0.00,1,2,apt,68.00,1300259.00,19121.46
+Nayarit," Roma Sur, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4100273,-99.161073,90,4,2,0,0,0.00,1,2,apt,77.00,4700000.00,61038.96
+Luis Elizondo," Roma Privada, Monterrey",Nuevo Leon,Horacio Zamarripa Rivas,25.6426097,-100.3024323,150,2,2,0,0,0.00,1,2,apt,118.00,5009481.00,42453.23
+Medellín210," Roma Norte, Cuauhtémoc", Distrito Federal,Glb Patrimonial,19.411479,-99.164319,12,0,2,0,0,0.00,1,2,apt,68.00,634217.00,9326.72
+Roma Norte, Cuauhtémoc, Distrito Federal,Rent A House Cdmx,19.4356338,-99.1495107,12,0,3,0,0,0.00,2,3,apt,162.00,10249474.00,63268.36
+Aguascalientes  60," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,2,1,3,3000.00,1,2,apt,143.00,9859115.00,68944.86
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,3,apt,128.00,6990000.00,54609.38
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Tucasahoy ,19.4054217,-99.1602247,150,4,2,0,0,0.00,2,2,apt,179.00,6643287.00,37113.34
+Roma Privada," Roma Privada, Monterrey",Nuevo Leon,Horacio Zamarripa Rivas,25.6443125,-100.2989282,270,2,2,0,0,0.00,1,2,apt,112.00,4745388.00,42369.54
+Roma Sur, Cuauhtémoc, Distrito Federal,Eduardomarcelohernandezlopez,19.4019284,-99.16906,300,5,2,0,0,0.00,2,3,apt,163.00,10200000.00,62576.69
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,63.00,4440632.00,70486.22
+Roma Sursn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,81.00,5006474.00,61808.32
+Roma Sursn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,73.00,4440632.00,60830.58
+Roma Sursn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,71.00,4271474.00,60161.61
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,71.00,5006474.00,70513.72
+Snsn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,71.00,4198875.00,59139.08
+Roma Sursn," Roma Sur, Cuauhtémoc", Distrito Federal,Buscatuhogarmexico,19.405299,-99.164989,60,0,2,0,0,0.00,1,2,apt,71.00,4198875.00,59139.08
+Jalapa," Roma Sur, Cuauhtémoc", Distrito Federal,Inmuebles Hahn,19.4185174,-99.1613449,180,5,2,0,0,0.00,1,3,apt,145.00,1894000.00,13062.07
+Hermosillo9," Roma Sur, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.401955,-99.1690664,300,0,1,0,0,0.00,1,2,apt,70.00,2151648.00,30737.83
+Hermosillo, Cuauhtémoc, Distrito Federal,Organizacion Serrano,19.401955,-99.1690664,270,5,2,0,0,0.00,1,3,apt,86.00,3250000.00,37790.70
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4112706,-99.1633664,90,0,2,0,0,0.00,1,2,apt,90.00,1105469.00,12282.99
+Medellín340," Roma Norte, Cuauhtémoc", Distrito Federal,Espacio Inmobili,19.404442,-99.162688,210,0,2,0,0,0.00,1,2,apt,150.00,920000.00,6133.33
+Coahuila," Roma Norte, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4124257,-99.1565968,39,0,1,1,7,0.00,1,1,apt,41.00,3270000.00,79756.10
+Av. Chapultepec246," Roma Norte, Cuauhtémoc", Distrito Federal,Espacio Inmobili,19.423963,-99.160967,210,0,2,0,0,0.00,1,3,apt,65.00,1277348.00,19651.51
+Tehuantepec," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4045013,-99.165451,365,5,2,0,0,0.00,2,2,apt,93.00,8192000.00,88086.02
+Av. Chapultepec246," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4239626,-99.1609669,300,0,2,0,0,0.00,1,3,apt,65.00,1277348.00,19651.51
+Tehuantepec," Roma Sur, Cuauhtémoc", Distrito Federal,Zona Ryg,19.4045013,-99.165451,365,5,2,0,0,0.00,2,2,apt,93.00,5673000.00,61000.00
+Tonalá," Roma Sur, Cuauhtémoc", Distrito Federal,Luxuryhabitatmx,19.4114483,-99.1611243,90,4,2,0,0,0.00,1,2,apt,72.00,4440632.00,61675.44
+Roma, Monterrey,Nuevo Leon,Melo Bueno Bienes Raíces,25.6542625,-100.2978762,300,7,3,0,0,0.00,2,3,apt,196.00,5600000.00,28571.43
+Roma, Monterrey,Nuevo Leon,Melo Bueno Bienes Raíces,25.6542625,-100.2978762,300,7,3,0,0,0.00,2,3,apt,196.00,5500000.00,28061.22
+Linares," Roma Sur, Cuauhtémoc", Distrito Federal,Morakalli Inmobiliaria,19.4054217,-99.1602247,60,6,3,0,0,0.00,2,3,apt,140.00,8706563.00,62189.74
+Roma Sur, Cuauhtémoc, Distrito Federal,Nik Bienesraices,19.405299,-99.1649891,120,4,2,0,0,0.00,1,2,apt,70.00,4734300.00,67632.86
+2 De Abril S/n," Roma, Monterrey",Nuevo Leon,Realtyworld Herrerapalacios,25.65666,-100.2991384,22,0,2,0,0,0.00,1,3,apt,105.00,5118269.00,48745.42
+2 De Abril S/n," Roma, Monterrey",Nuevo Leon,Realtyworld Herrerapalacios,25.65666,-100.2991384,22,0,2,0,0,0.00,1,3,apt,105.00,4567979.00,43504.56
+2 De Abril  S/n," Roma, Monterrey",Nuevo Leon,Realtyworld Herrerapalacios,25.65666,-100.2991384,22,0,2,0,0,0.00,1,3,apt,33.00,4966989.00,150514.82
+Córdoba48," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.422147,-99.159086,300,0,2,0,0,0.00,1,3,apt,100.00,1020000.00,10200.00
+Córdoba48," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4221472,-99.1590856,300,0,2,0,0,0.00,1,3,apt,100.00,2750667.00,27506.67
+Durango290," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.418654,-99.1712607,300,0,2,0,0,0.00,1,2,apt,98.00,1953000.00,19928.57
+Av. Sonora27," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4200374,-99.1734883,300,0,2,0,0,0.00,1,3,apt,95.00,847987.00,8926.18
+Acapulco37," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4193691,-99.1743199,300,0,2,0,0,0.00,1,3,apt,191.00,900000.00,4712.04
+Coahuila14," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.412573,-99.15541,300,0,1,0,0,0.00,1,2,apt,70.00,738000.00,10542.86
+Zacatecas67," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4165174,-99.1575288,300,0,2,0,0,0.00,1,2,apt,135.00,1285333.00,9520.99
+Aguascalientes98," Roma Sur, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4084623,-99.1657027,300,0,1,0,0,0.00,1,2,apt,60.00,900000.00,15000.00
+Valladolid34," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4210499,-99.1682654,300,0,2,0,0,0.00,1,3,apt,327.00,958789.00,2932.08
+Roma Sur 0," Roma Sur, Cuauhtémoc", Distrito Federal,Pireal Estate,19.405299,-99.1649891,365,0,2,1,3,0.00,2,2,apt,185.00,7170000.00,38756.76
+Queretaro238," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4136795,-99.1654,300,0,3,0,0,0.00,1,4,apt,89.00,1394590.00,15669.55
+Coahuila14," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4125733,-99.1554097,300,0,1,0,0,0.00,1,2,apt,70.00,1410000.00,20142.86
+Pomona45," Roma Norte, Cuauhtémoc", Distrito Federal,Acreedores X Ti,19.4211261,-99.1628915,300,0,2,0,0,0.00,1,2,apt,75.00,989670.00,13195.60
+Roma Norte 0," Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,180,0,2,0,0,0.00,1,2,apt,78.00,5950000.00,76282.05
+Pomona45," Roma Norte, Cuauhtémoc", Distrito Federal,Espacio Inmobili,19.421126,-99.162892,210,0,2,0,0,0.00,1,2,apt,75.00,989670.00,13195.60
+Aguascalientes," Roma Sur, Cuauhtémoc", Distrito Federal,Remax Real Estate Consultants,19.4088,-99.1637,150,0,2,0,4,0.00,1,2,apt,70.00,4996100.00,71372.86
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Metros Cuadrados Expertos,19.4089339,-99.1617879,35,4,2,0,0,0.00,1,2,apt,65.00,4231337.00,65097.49
+Torreon," Roma Sur, Cuauhtémoc", Distrito Federal,Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,39,0,2,1,1,0.00,2,3,apt,115.00,8028800.00,69815.65
+Roma Norte 0," Roma Norte, Cuauhtémoc", Distrito Federal,Pireal Estate,19.4195256,-99.162549,180,0,2,0,0,0.00,1,2,apt,91.00,8250000.00,90659.34
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4088805,-99.1672582,60,5,2,0,0,0.00,2,2,apt,129.00,7250000.00,56201.55
+Condesa, Cuauhtémoc, Distrito Federal,Heyserenta Com,19.4149803,-99.1774462,60,4,2,0,0,0.00,1,2,apt,114.00,7900000.00,69298.25
+Condesa, Cuauhtémoc, Distrito Federal,Heyserenta Com,19.4149803,-99.1774462,60,4,2,0,0,0.00,1,2,apt,130.00,8500000.00,65384.62
+Tlacotalpan," Roma Sur, Cuauhtémoc", Distrito Federal,Grupo Inmobiliario Gid13,19.4088805,-99.1672582,60,5,2,0,0,0.00,2,2,apt,141.00,7500000.00,53191.49
+SN,Cuauhtemoc, Distrito Federal,Consultores Patrimoniales,19.4044416,-99.1626881,90,0,2,0,0,0.00,1,3,apt,90.00,1494000.00,16600.00
+Roma Sur, Cuauhtémoc, Distrito Federal,Heyserenta Com,19.405299,-99.1649891,60,2,1,0,0,0.00,1,1,apt,75.00,6500000.00,86666.67
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4118805,-99.1642582,60,5,2,0,0,0.00,2,2,apt,141.00,7500000.00,53191.49
+Roma Sur, Cuauhtémoc, Distrito Federal,Mi Casa Propia,19.4108805,-99.1652582,60,5,2,0,0,0.00,2,2,apt,129.00,7250000.00,56201.55
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Coldwellbankerarsespacio,19.4057767,-99.1610681,40,0,2,0,0,0.00,2,2,apt,164.00,6516000.00,39731.71
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Coldwellbankerarsespacio,19.4057767,-99.1610681,40,0,2,0,0,0.00,2,2,apt,140.00,6385000.00,45607.14
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Coldwellbankerarsespacio,19.4057767,-99.1610681,40,0,2,0,0,0.00,1,2,apt,84.00,4116000.00,49000.00
+Monterrey," Roma Sur, Cuauhtémoc", Distrito Federal,Coldwellbankerarsespacio,19.4057767,-99.1610681,40,0,2,0,0,0.00,1,2,apt,88.00,4236000.00,48136.36
+Querétaro," Roma Norte, Cuauhtémoc", Distrito Federal,Coldwellbankerpremium,19.4148447,-99.1602414,60,0,2,0,0,0.00,2,2,apt,114.00,6620120.00,58071.23
+Bajío 315," Roma Sur, Cuauhtémoc", Distrito Federal,Aldo,19.4029284,-99.16806,330,0,2,0,1,0.00,2,3,apt,114.00,6270000.00,55000.00
