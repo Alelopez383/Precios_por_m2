@@ -48,6 +48,8 @@ Para lograr lo anterior se realizará los siguientes pasos:
 
 ![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/fbd76ca0-90aa-4c8b-8159-f57b803c497d)
 
+## Derivado de lo anterior, se busca eliminar los outliers basado en la desviación estándar:
+
 * Diagramas de dispersión
 
 ![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/791036b4-4faf-4ba3-8f4d-e44615491536)
@@ -63,6 +65,21 @@ Para lograr lo anterior se realizará los siguientes pasos:
 ![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/261f77e8-fe4b-4727-b525-78e9c3662185)
 
 
+# Flujo de MLOps
+
+1. Recolección y preparación de datos: Se recopilan y preparan los datos necesarios para entrenar y evaluar el modelo. Esto implica la limpieza de datos, la selección de características relevantes y la división del conjunto de datos en conjuntos de entrenamiento, validación y prueba.
+
+2. Desarrollo y entrenamiento del modelo: Se desarrolla y entrena el modelo utilizando el conjunto de datos de entrenamiento. Se exploran diferentes algoritmos y técnicas de modelado para encontrar el enfoque más efectivo.
+
+3. Validación y evaluación del modelo: Se evalúa el modelo utilizando el conjunto de datos de validación para medir su rendimiento. Se calculan métricas de evaluación para determinar la calidad del modelo.
+
+4. Implementación del modelo: Una vez que el modelo ha sido validado, se implementa en un entorno de producción.
+
+5. Monitoreo del modelo: Se establecen métricas y umbrales para monitorear el rendimiento del modelo.
+
+6. Actualización y reentrenamiento del modelo
+
+7. Despliegue continuo: Se automatiza el proceso de implementación y actualización del modelo.
 
 
 
