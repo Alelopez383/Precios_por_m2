@@ -81,6 +81,14 @@ Para lograr lo anterior se realizará los siguientes pasos:
 
 7. Despliegue continuo: Se automatiza el proceso de implementación y actualización del modelo.
 
+# Despliegue local
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/5590e569-9e45-45c8-8c99-96a7b6724f9a)
+
+![image](https://github.com/Alelopez383/Precios_por_m2/assets/43974872/09359cea-74fe-4eba-b84a-32d66124738f)
+
+
+
 
 
 
