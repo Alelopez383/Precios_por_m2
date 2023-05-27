@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/alelo/Documents/DD360/Precios_por_m2/mlruns/0/c082dff4028f48688d28e131556ac4ed/artifacts
+end_time: 1685141335495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c082dff4028f48688d28e131556ac4ed
+run_name: rumbling-ram-251
+run_uuid: c082dff4028f48688d28e131556ac4ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685141280407
+status: 3
+tags: []
+user_id: alelo
